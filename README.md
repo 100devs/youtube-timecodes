@@ -2,8 +2,25 @@
 
 Class 01 - Timecodes
 0:00 - Intro
-1:21 - Something else please be detailed
-5:16 - Something else pleas be detailed
+9:45 - We're here to learn for free! Learn about the 100Devs course and Leon!
+21:24 - What do Software Engineers do?
+31:00 - What is the Through of Sorrow?
+38:35 - How to be successful by learning to manage frustration.
+42:20 - Consistency and managing study time.
+50:00 - What is the set up of our course? Networking and coding!
+54:10 - More class set up including homework and networking.
+1:11:00 - 100Devs Community Rules. Join our discord!
+1:23:30 - Let's discuss successful learning strategies including videos by Ali Abdaal and the Coursera Learning How To Learn Course
+1:46:00 - What is the internet?
+2:41:30 - HTML5
+
+LINKS: 
+
+How to study for exams - Evidence-based revision tips by Ali Abdaal https://www.youtube.com/watch?v=ukLnPbIffxE
+
+How to Study for Exams - Spaced Repetition | Evidence-based revision tips by Ali Abdaal https://www.youtube.com/watch?v=Z-zNHHpXoMM
+
+Learning How to Learn: Powerful mental tools to help you master tough subjects by Barbara Oakley https://www.coursera.org/learn/learning-how-to-learn
 
 Class 02 - Timecodes
 0:00 - Intro
