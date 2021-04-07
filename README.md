@@ -1,8 +1,8 @@
 # youtube-timecodes
 
 Class 01 - Timecodes
-0:00 - Intro
-9:45 - We're here to learn for free! Learn about the 100Devs course and Leon!
+0:00 - Intro  
+9:45 - We're here to learn for free! Learn about the 100Devs course and Leon!  
 21:24 - What do Software Engineers do?
 31:00 - What is the Through of Sorrow?
 38:35 - How to be successful by learning to manage frustration.
