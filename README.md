@@ -12,7 +12,7 @@ Class 01 - Timecodes
 1:11:00 - 100Devs Community Rules. Join our discord!  
 1:23:30 - Let's discuss successful learning strategies including videos by Ali Abdaal and the Coursera Learning How To Learn Course  
 1:46:00 - What is the internet?  
-2:41:30 - HTML5  
+2:41:30 - Let's dive into HTML5.  
 
 LINKS: 
 
