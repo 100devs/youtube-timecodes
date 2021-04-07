@@ -99,7 +99,22 @@ Class 32 - Timecodes
 0:00 - Intro
 
 Class 33 - Timecodes
-0:00 - Intro
+1:28 - Intro
+10:25 - Class Agenda & discussion
+14:36 - General Questions
+14:36 - What's coming in the next few classes
+20:21 - Backend Review
+41:43 - Let's talk about CRUD
+43:40 - Building a simple CRUD app
+58:03 - Adding EJS
+1:09:55 - Take a break
+1:16:54 - Let's talk about what our app will do
+1:17:19 - What does get do
+1:36:20 - What does post do
+1:58:11 - Take a break
+2:04:12 - What does delete do
+2:33:42 - Let's talk through our code
+3:07:09 - What you need to do for next class
 
 Class 34 - Timecodes
 0:00 - Intro
