@@ -84,6 +84,20 @@ Class 21 - Timecodes
 
 Class 22 - Timecodes
 0:00 - Intro
+9:25 - Simba cam
+15:10 - Questions and intro info
+27:30 - MORE SIMBA CAM
+40:00 - Review / Spaced Repetition
+51:20 - Netflix Object starter code
+1:08:30 - Break time
+1:15:20 - Review  What are APIs?
+1:19:55 - Review NASA API
+1:29:04 - Media type changes on NASA API
+1:41:40 - How to make the date your choice for NASA API
+1:50:30 - Working with Local Storage
+2:16:40 - Break time
+2:24:00 - Build a Card Game with an API
+3:00:00 - Pokemon card draw!
 
 Class 23 - Timecodes
 0:00 - Intro
