@@ -74,7 +74,38 @@ Class 18 - Timecodes
 0:00 - Intro
 
 Class 19 - Timecodes
-0:00 - Intro
+0:00 - Chat is HYPE
+13:50 - Intro
+16:53 - Agenda
+17:30 - Questions?
+19:56 - Pep talk
+23:45 - Trough of Sorrow
+25:08 - Health First
+25:40 - Networking update
+27:06 - Client deadline update
+28:19 - Client alternative Introduction
+30:25 - Option 1: Grassroots Volunteer
+33:35 - Option 2: Open Source Projects
+36:42 - Portfolio and Resume review announcement
+40:32 - Youtube announcement
+42:17 - Newsletter
+43:40 - Discord update
+47:40 - Channel Points update
+53:14 - Stream Hardware update
+55:33 - Mech drop
+1:03:24 - Sponsor announcement
+1:05:24 - 7 minute break
+1:12:29 - Sponsor details and Thank you
+1:31:27 - Programming
+1:33:24 - Variables
+1:33:43 - Conditionals
+1:34:26 - Functions
+1:35:31 - Loops
+1:36:49 - Let's Code: Turbo Review
+2:07:40 - 5 minute break
+2:17:15 - Arrays
+2:24:23 - Let's Code: Space Review
+2:55:22 - Objects
 
 Class 20 - Timecodes
 0:00 - Intro
