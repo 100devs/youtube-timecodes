@@ -101,9 +101,19 @@ Class 22 - Timecodes
 
 Class 23 - Timecodes
 0:00 - Intro
+20:00 - Agenda
+50:30 - Review / Spaced Repetition
+1:04:30 - Break time
+1:12:00 - Let's Code! Dungeons and Dragons
+1:40:00 - Within the DnD code: how to create an 'li' element in the document
+1:55:05 - Break time
+2:07:40 - Review Local Storage
+2:13:40 - Let's Code A Book Tracker (API and Local Storage)
+3:16:20 - Homework
 
 Class 24 - Timecodes
 0:00 - Intro
+
 
 Class 25 - Timecodes
 0:00 - Intro
