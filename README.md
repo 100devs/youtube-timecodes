@@ -92,7 +92,7 @@ Class 19 - Timecodes
 43:40 - Discord update
 47:40 - Channel Points update
 53:14 - Stream Hardware update
-55:33 - Mech drop
+55:33 - Merch drop
 1:03:24 - Sponsor announcement
 1:05:24 - 7 minute break
 1:12:29 - Sponsor details and Thank you
@@ -105,10 +105,48 @@ Class 19 - Timecodes
 2:07:40 - 5 minute break
 2:17:15 - Arrays
 2:24:23 - Let's Code: Space Review
-2:55:22 - Objects
+2:55:22 - End of class
 
 Class 20 - Timecodes
-0:00 - Intro
+0:00 - Greetings
+8:30 - Intro
+10:27 - Agenda
+10:52 - Questions
+13:01 - Working through new stream struggles
+14:38 - Pep talk
+16:21 - Health First
+16:40 - Networking update
+16:48 - Client deadline update
+16:53 - Client alternatives
+17:34 - Portfolio and Resume review announcement
+19:47 - Youtube announcement
+20:11 - Newsletter
+20:55 - Discord update
+21:59 - Channel Points update
+30:21 - Sponsor announcement
+32:39 - Merch update
+33:50 - Stream updates
+42:08 - Programming
+43:25 - Variables
+43:42 - Conditionals
+44:33 - Functions
+47:55 - Loops
+48:35 - Arrays
+50:30 - Let's Code: Turbo Review
+1:08:48 - 5 minute break
+1:15:48 - Let's Code: Turbo Review Continued
+1:36:40 - Objects
+1:44:46 - Factories
+1:58:36 - Constructor prototypes
+2:03:46 - 5 minute break
+2:10:02 - Global object prototype and Inheritance
+2:14:10 - Let's Code: Objects - Tony Hawk Pro Skater
+2:28:41 - Class syntax
+2:30:40 - APIs
+2:38:56 - Let's Code: Dog Photos!
+2:47:05 - API Query Parameter
+2:49:49 - Let's Code: Shots
+3:05:10 - End of class
 
 Class 21 - Timecodes
 0:00 - Intro
