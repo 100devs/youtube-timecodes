@@ -27,6 +27,7 @@ Class 02 - Timecodes
 
 Class 03 - Timecodes
 0:00 - Intro
+0:01
 
 Class 04 - Timecodes
 0:00 - Intro
