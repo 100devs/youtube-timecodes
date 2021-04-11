@@ -27,6 +27,31 @@ Class 02 - Timecodes
 
 Class 03 - Timecodes
 1:05 - Intro
+2.49 - Q&A
+7:40 - Agenda
+10:19 - Curses Google Authenticator Multifactor
+12:00 - Typing
+16:10 - Reading Documentation
+18:51 - Deep Not Wide
+22:08 - Space Repetition
+24:17 - What is the internet?
+25.56 - Separation of Concerns
+27:45 - Progressive Enhancement
+30.56 - CSS
+36:54 - Use a separete CSS file
+42:15 - CSS Syntax
+53:13 - Cascade
+56:20 - Color
+1:04:18 - Fonts
+1:09:11 - Break
+1:15:33 - How to research?
+1:18:08 - Let's Code
+1:47:05 - Selecting by Relationship
+1:58:30 - Let's Code
+2:05:56 - Break
+2:12:51 - IDs & Classes
+2:17:27 - Specificity
+2:26:25 - Homework
 
 Class 04 - Timecodes
 0:00 - Intro
