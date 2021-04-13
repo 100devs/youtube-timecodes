@@ -111,9 +111,13 @@ Class 23 - Timecodes
 2:13:40 - Let's Code A Book Tracker (API and Local Storage)
 3:16:20 - Homework
 
-Class 24 - Timecodes
-0:00 - Intro
-
+Class 24 - Timecodes 
+0:00 - Intro and Back From Break chat / catch up
+22:40 - Agenda 
+1:10:40 - What is programming??? (Spaced repetition Q's)
+1:21:50 - Let's Code! Boulder Badge (reviews variables, conditionals, functions, and loops)
+1:55:15 - Let's Code! Cascade Badge (reviews arrays, good information to use with CodeWars Kata)
+3:01:00 - Homework!
 
 Class 25 - Timecodes
 0:00 - Intro
