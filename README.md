@@ -114,7 +114,40 @@ Class 31 - Timecodes
 
 Class 32 - Timecodes
 0:00 - Intro
+9:00 - Class Agenda
+10:00 - General Questions
+12:47 - What's coming in the next few classes and the class expectation
+24:59 - Backend Review (Event Loop)
+43:45 - Sticker Raffle
+47:47 - Back to Backend Review (Node)
+58:16 - Let's Code - More Complex Server with Express
+1:00:20 - Break
+1:08:04 - Introduction to Express
+1:24:28 - What is CRUD?
+1:35:17 - Build an App with Express
+1:41:14 - CRUD API Example: How Instagram is built
+1:46:01 - Start to Build the App 
+1:46:25 - Key Steps (Set Up the Project, Serve up HTML, Server up JSON, Push to Heroku)
+1:49:54 - Demo the Simple Rapper Api
+1:53:18 - Start Building Rap Api
+2:13:36 - Break
+2:19:37 - Back to Building Rap Api 
+2:29:17 - Build Client Side to Consume Rap Api
+2:50:59 - Add More Rappers in the Api
+3:09:37 - Talk through the Code
+3:13:25 - Push to Heroku
+3:29:27 - Homework
 
+LINKS: 
+
+[Class Slide] (https://slides.com/leonnoel/100devs-node-express)
+
+[Jake Archibald: In The Loop - JSConf.Asia] (https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+
+[What the heck is the event loop anyway? | Philip Roberts | JSConf EU] (https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
+
+[Zell Liew - Building a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/)
+ 
 Class 33 - Timecodes
 1:28 - Intro
 10:25 - Class Agenda & discussion
