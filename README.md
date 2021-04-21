@@ -121,6 +121,15 @@ Class 24 - Timecodes
 
 Class 25 - Timecodes
 0:00 - Intro
+9:50 - Why OOP? Why does it matter?
+12:35 - Agenda
+15:30 - Questions?
+32:00 - Spaced repetition / Review
+58:46 - Let's Code! Espresso Machine
+1:29:30 - OOP Baby! (Is it easy to add new features and functionality?).
+1:30:50 - Encapsulation: storing functions and associated data into one thing.
+1:52:35 - Abstraction: hide details and show essentials.
+2:25:15 - Remo to work together
 
 Class 26 - Timecodes
 0:00 - Intro
