@@ -147,6 +147,12 @@ Jake Archibald: In The Loop - JSConf.Asia https://www.youtube.com/watch?v=cCOL7M
 What the heck is the event loop anyway? | Philip Roberts | JSConf EU https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be
 
 Zell Liew - Building a Simple CRUD app with Node, Express, and MongoDB https://zellwk.com/blog/crud-express-mongodb/
+
+CODES:
+
+CRUD Express API https://github.com/100devs/rap-api
+
+Client Side Code with Async Await Request https://github.com/100devs/client-side-rap-api
  
 Class 33 - Timecodes
 1:28 - Intro  
@@ -156,6 +162,7 @@ Class 33 - Timecodes
 20:21 - Backend Review  
 41:43 - Let's talk about CRUD  
 43:40 - Building a simple CRUD app  
+48:30 - Introducing Mongo DB  
 58:03 - Adding EJS  
 1:09:55 - Take a break  
 1:16:54 - Let's talk about what our app will do  
@@ -169,6 +176,10 @@ Class 33 - Timecodes
 LINKS: 
 
 Class Slide https://slides.com/leonnoel/100devs-node-express-crud
+
+CODES:
+
+
 
 
 Class 34 - Timecodes
