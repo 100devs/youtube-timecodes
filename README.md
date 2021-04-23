@@ -113,25 +113,73 @@ Class 31 - Timecodes
 0:00 - Intro
 
 Class 32 - Timecodes
-0:00 - Intro
+0:00 - Intro  
+9:00 - Class Agenda  
+10:00 - General Questions  
+12:47 - What's coming in the next few classes and the class expectation  
+24:59 - Backend Review (Event Loop)  
+43:45 - Sticker Raffle  
+47:47 - Back to Backend Review (Node)  
+58:16 - Let's Code - More Complex Server with Express  
+1:00:20 - Break  
+1:08:04 - Introduction to Express  
+1:24:28 - What is CRUD?  
+1:35:17 - Build an App with Express  
+1:41:14 - CRUD API Example: How Instagram is built  
+1:46:01 - Start to Build the App  
+1:46:25 - Key Steps (Set Up the Project, Serve up HTML, Server up JSON, Push to Heroku)  
+1:49:54 - Demo the Simple Rapper Api  
+1:53:18 - Start Building Rap Api  
+2:13:36 - Break  
+2:19:37 - Back to Building Rap Api  
+2:29:17 - Build Client Side to Consume Rap Api  
+2:50:59 - Add More Rappers in the Api  
+3:09:37 - Talk through the Code  
+3:13:25 - Push to Heroku  
+3:29:27 - Homework  
 
+LINKS: 
+
+Class Slide https://slides.com/leonnoel/100devs-node-express
+
+Jake Archibald: In The Loop - JSConf.Asia https://www.youtube.com/watch?v=cCOL7MC4Pl0
+
+What the heck is the event loop anyway? | Philip Roberts | JSConf EU https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be
+
+Zell Liew - Building a Simple CRUD app with Node, Express, and MongoDB https://zellwk.com/blog/crud-express-mongodb/
+
+CODES:
+
+CRUD Express API https://github.com/100devs/rap-api
+
+Client Side Code with Async Await Request https://github.com/100devs/client-side-rap-api
+ 
 Class 33 - Timecodes
-1:28 - Intro
-10:25 - Class Agenda & discussion
-14:36 - General Questions
-14:36 - What's coming in the next few classes
-20:21 - Backend Review
-41:43 - Let's talk about CRUD
-43:40 - Building a simple CRUD app
-58:03 - Adding EJS
-1:09:55 - Take a break
-1:16:54 - Let's talk about what our app will do
-1:17:19 - What does get do
-1:36:20 - What does post do
-1:58:11 - Take a break
-2:04:12 - What does delete do
-2:33:42 - Let's talk through our code
-3:07:09 - What you need to do for next class
+1:28 - Intro  
+10:25 - Class Agenda & discussion  
+14:36 - General Questions  
+14:36 - What's coming in the next few classes  
+20:21 - Backend Review  
+41:43 - Let's talk about CRUD  
+43:40 - Building a simple CRUD app  
+48:30 - Introducing Mongo DB  
+58:03 - Adding EJS  
+1:09:55 - Take a break  
+1:16:54 - Let's talk about what our app will do  
+1:17:19 - What does get do  
+1:36:20 - What does post do  
+1:58:11 - Take a break  
+2:04:12 - What does delete do  
+2:33:42 - Let's talk through our code  
+3:07:09 - What you need to do for next class  
+
+LINKS: 
+
+Class Slide https://slides.com/leonnoel/100devs-node-express-crud
+
+CODES:
+
+Rap Node w/ Express APP https://github.com/100devs/rap-names-express 
 
 Class 34 - Timecodes
 0:00 - Intro
