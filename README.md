@@ -243,8 +243,84 @@ Class 29 - Timecodes
 Class 30 - Timecodes
 0:00 - Intro
 
-Class 31 - Timecodes
-0:00 - Intro
+Class 31 - Timecodes  
+0:00 - Intro  
+4:27 - How to solve all the world's problems  
+4:42 - Welcome
+9:48 - Question of the Day  
+12:05 - Agenda  
+12:53 - Questions?  
+16:51 - Reminders for this week  
+22:18 - Concept Review  
+22:54 - JS is single-threaded  
+25:04 - JS runs in a browser  
+26:57 - JS All Lies  
+29:43 - How does JS handle API responses?  
+30:28 - JS callbacks  
+35:03 - JS promises  
+42:27 - JS async/await  
+43:21 - ECMAScript aside  
+46:00 - back to JS async/await  
+47:54 - JS async/await fetch example - delete?  
+50:22 - Example: async-practice  
+1:00:28 - Break 1  
+1:05:56 - Pokemon Card Drawing  
+1:13:38 - Data Structures: Queue  
+1:18:19 - Data Structures: Stack  
+1:21:49 - Event Loop part 1  
+1:28:42 - Event Loop part 2  
+1:34:37 - Stepping through the Event Loop  
+1:43:23 - Running it back  
+1:46:02 - Event Loop Summary   
+1:48:30 - Backend BABY  
+1:49:39 - What does JS need?  
+1:50:49 - What does a server need?  
+1:53:23 - Node.js Celebration (MUSIC & LIGHTS WARNING)  
+1:54:09 - Node.js  
+1:57:18 - Engine vs Compiler  
+1:58:51 - What comes with Node?  
+2:02:23 - Install Node  
+2:02:40 - Break 2  
+2:09:22 - Example: node-intro-demo  
+2:12:52 - You can now build Fullstack Web Applications  
+2:13:20 - Example: node-backend-simple-json  
+2:17:00 - Server setup  
+2:19:35 - Our server listens for requests  
+2:22:33 - Figlet  
+2:24:47 - Go practice together   
+2:26:10 - Homework
+
+LINKS:  
+Slides
+https://slides.com/leonnoel/100devs-node/  
+The Sheet  
+https://docs.google.com/spreadsheets/d/1Be-6gYvrfi8l-M0RnObzdysRIG7N7Yyu6rIF0OHw0Q4/edit?usp=sharing  
+The Checklist  
+https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg  
+Last Week Homework Submission  
+https://docs.google.com/forms/d/e/1FAIpQLSc1jhBZKVJNxH8Ehf-qodzTzpYuloBmPan-CqaoMwL8xYkM8w/viewform  
+How to Study for Exams - Spaced Repetition | Evidence-based revision tips by Ali Abdaal  
+https://www.youtube.com/watch?v=Z-zNHHpXoMM  
+What the heck is the event loop anyway? | Philip Roberts | JSConf EU  
+https://www.youtube.com/watch?v=8aGhZQkoFbQ  
+Jake Archibald: In The Loop - JSConf.Asia  
+https://www.youtube.com/watch?v=cCOL7MC4Pl0)  
+Web APIs  
+https://developer.mozilla.org/en-US/docs/Web/API  
+DOM (Document Object Model) API  
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model  
+Async/Await Syntactic Sugar of Promises  
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await  
+Libevent (Event Loop)  
+https://libevent.org  
+npm (node package manager)  
+https://www.npmjs.com  
+Install Node  
+https://nodejs.org/en/  
+Node Releases  
+https://nodejs.org/en/about/releases/  
+Professional Links Submission  
+https://docs.google.com/forms/d/e/1FAIpQLSc1jhBZKVJNxH8Ehf-qodzTzpYuloBmPan-CqaoMwL8xYkM8w/viewform  
 
 Class 32 - Timecodes
 0:00 - Intro  
