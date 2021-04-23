@@ -12,9 +12,9 @@ Class 01 - Timecodes
 1:11:00 - 100Devs Community Rules. Join our discord!  
 1:23:30 - Let's discuss successful learning strategies including videos by Ali Abdaal and the Coursera Learning How To Learn Course  
 1:46:00 - What is the internet?  
-2:41:30 - Let's dive into HTML5.  
+2:41:30 - Let's dive into HTML5.
 
-LINKS: 
+LINKS:
 
 How to study for exams - Evidence-based revision tips by Ali Abdaal https://www.youtube.com/watch?v=ukLnPbIffxE
 
@@ -102,9 +102,49 @@ Class 27 - Timecodes
 
 Class 28 - Timecodes
 0:00 - Intro
+10:35 - Questions: About last class of life
+21:35 - Fresh Start
+24:48 - Active Recall & Spaced Repetition
+27:00 - Where are you?
+38:28 - How to play the game?
+46:45 - Crafting your Story
+56:25 - Let's Craft: Your Story Blurb
+1:03:20 - Online Persona
+1:11:40 - Twitter
+1:25:00 - Linkedin/Angelist
+1:38:37 - Portfolio
+1:45:55 - Resume
+1:51:15 - Cover Letter
+1:54:45 - GitHub
+2:14:25 - Recruiters Love Green Squares
+2:20:10 - HitList
+2:39:03 - 100Hours Project
+2:47:21 - Process
+2:56:57 - How to prepare?
 
 Class 29 - Timecodes
 0:00 - Intro
+17:30 - Questions: About last class or life
+23:18 - Spaced Repetition & Anki Gang
+26:10 - Stream Team
+29:42 - Newsletter
+49:25 - Where are you? What do you want?
+53:22 - Checklist
+1:02:02 - Can you code?
+1:12:26 - Online Persona
+1:12:44 - Twitter
+1:17:34 - Linkedin/Angelist
+1:24:23 - Push Every Day
+1:30:52 - 100Hours Project
+1:32:10 - Interviewing
+1:35:33 - What are the steps in this process?
+1:39:24 - How to Prepare?
+1:40:51 - Behavioral (C.A.R)
+2:10:47 - Technical Questions (E.U.E)
+2:14:00 - Technical Whiteboard
+2:22:06 - P.R.E.P
+2:26:39 - Let's PREP - FizzBuzz
+2:35:30 - Questions
 
 Class 30 - Timecodes
 0:00 - Intro
