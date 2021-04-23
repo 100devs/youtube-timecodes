@@ -316,7 +316,31 @@ CODES:
 Rap Node w/ Express APP https://github.com/100devs/rap-names-express 
 
 Class 34 - Timecodes
-0:00 - Intro
+00:00 - Intro
+5:04 - Class Agenda & discussion
+13:32 - General Questions
+15:43 - What's coming in the next few classes
+25:39 - Getting through the Trough of Sorrow
+44:23 - Vomit code: your code doesn't need to be pretty
+48:39 - Backend review
+53:40 - Express review
+59:33 - What we'll be building tonight
+1:02:34 - Take a break
+1:12:47 - How does the internet work
+1:27:32 - CRUD apps
+1:29:20 - What is MongoDB, what it does, and how to use it
+1:31:30 - EJS and what it's useful for
+1:41:45 - Water intermission and answering EJS chat questions
+1:48:30 - Talking through our code
+1:53:26 - What are some Create (post) requests?
+2:05:18 - Take a break
+2:12:02 - Mask raffle
+2:16:37 - What are some Read (get) requests?
+2:22:21 - What are some Delete (delete) requests?
+2:27:09 - What are some Update (put) requests?
+2:50:35 - Reviewing the code we just wrote
+2:55:45 - Using .env
+3:00:33 - What you need to do by next class
 
 Class 35 - Timecodes
 0:00 - Intro
