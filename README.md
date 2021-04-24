@@ -175,6 +175,32 @@ Class 20 - Timecodes
 
 Class 21 - Timecodes
 0:00 - Intro
+10:55 - Agenda
+14:00 - Questions
+15:30 - Who is this class for?
+19:31 - Pros/Cons of becoming a Software Engineering
+25:49 - Learning How To Learn
+33:00 - YOU ARE NOT ALONE!
+35:08 - Intro to the Terminal
+1:07:15 - Break
+1:12:24 - More terminal
+1:20:12 - Practice
+1:25:38 - Practice solution
+1:29:42 - Raffle giveaway
+1:37:30 - Intro to Git
+1:50:30 - Raffle giveaway
+1:59:52 - Installing Git
+2:11:24 - Raffle giveaway
+2:16:25 - Break
+2:22:30 - Basic Git commands
+2:41:30 - Make your first commit Practice
+2:45:10 - First commit solution
+2:48:00 - Raffle giveaway
+2:51:00 - Intro to branches
+2:59:40 - Intro to Github
+3:09:55 - Github Pages
+3:13:40 - Homework
+3:14:50 - End of Stream/Raffles
 
 Class 22 - Timecodes
 0:00 - Intro
@@ -348,7 +374,7 @@ Class 32 - Timecodes
 3:13:25 - Push to Heroku  
 3:29:27 - Homework  
 
-LINKS: 
+LINKS:
 
 Class Slide https://slides.com/leonnoel/100devs-node-express
 
@@ -363,7 +389,7 @@ CODES:
 CRUD Express API https://github.com/100devs/rap-api
 
 Client Side Code with Async Await Request https://github.com/100devs/client-side-rap-api
- 
+
 Class 33 - Timecodes
 1:28 - Intro  
 10:25 - Class Agenda & discussion  
@@ -383,13 +409,13 @@ Class 33 - Timecodes
 2:33:42 - Let's talk through our code  
 3:07:09 - What you need to do for next class  
 
-LINKS: 
+LINKS:
 
 Class Slide https://slides.com/leonnoel/100devs-node-express-crud
 
 CODES:
 
-Rap Node w/ Express APP https://github.com/100devs/rap-names-express 
+Rap Node w/ Express APP https://github.com/100devs/rap-names-express
 
 Class 34 - Timecodes
 00:00 - Intro
