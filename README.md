@@ -174,36 +174,55 @@ Class 20 - Timecodes
 3:05:10 - End of class
 
 Class 21 - Timecodes
-0:00 - Intro
-10:55 - Agenda
-14:00 - Questions
-15:30 - Who is this class for?
-19:31 - Pros/Cons of becoming a Software Engineering
-25:49 - Learning How To Learn
-33:00 - YOU ARE NOT ALONE!
-35:08 - Intro to the Terminal
-1:07:15 - Break
-1:12:24 - More terminal
-1:20:12 - Practice
-1:25:38 - Practice solution
-1:29:42 - Raffle giveaway
-1:37:30 - Intro to Git
-1:50:30 - Raffle giveaway
-1:59:52 - Installing Git
-2:11:24 - Raffle giveaway
-2:16:25 - Break
-2:22:30 - Basic Git commands
-2:41:30 - Make your first commit Practice
-2:45:10 - First commit solution
-2:48:00 - Raffle giveaway
-2:51:00 - Intro to branches
-2:59:40 - Intro to Github
-3:09:55 - Github Pages
-3:13:40 - Homework
+0:00 - Intro  
+10:55 - Agenda  
+14:00 - Questions  
+15:30 - Who is this class for?  
+19:31 - Pros/Cons of becoming a Software Engineering  
+25:49 - Learning How To Learn  
+33:00 - YOU ARE NOT ALONE!  
+35:08 - Intro to the Terminal  
+1:07:15 - Break  
+1:12:24 - More terminal  
+1:20:12 - Practice  
+1:25:38 - Practice solution  
+1:29:42 - Raffle giveaway  
+1:37:30 - Intro to Git  
+1:50:30 - Raffle giveaway  
+1:59:52 - Installing Git  
+2:11:24 - Raffle giveaway  
+2:16:25 - Break  
+2:22:30 - Basic Git commands  
+2:41:30 - Make your first commit Practice  
+2:45:10 - First commit solution  
+2:48:00 - Raffle giveaway  
+2:51:00 - Intro to branches  
+2:59:40 - Intro to Github  
+3:09:55 - Github Pages  
+3:13:40 - Homework  
 3:14:50 - End of Stream/Raffles
 
+Slides: https://slides.com/leonnoel/100devs-git-and-github/
+
 Class 22 - Timecodes
-0:00 - Intro
+0:00 - Intro  
+14:42 - Questions  
+20:45 - Updates/Pep talk  
+27:31 - Simba Cam  
+30:19 - More Updates  
+40:12 - Review  
+51:50 - Netflix object Practice  
+57:45 - Review Netflix objects Practice  
+1:08:33 - Break  
+1:15:00 - API Review  
+1:20:00 - NASA API Practice  
+1:50:15 - Local Storage  
+1:59:00 - Local Storage Practice  
+2:05:11 - Review Local Storage Practice  
+2:16:45 - Break  
+2:23:45 - Card Game API  
+
+Slides: https://slides.com/leonnoel/100devs-javascript-more-api-review/
 
 Class 23 - Timecodes
 0:00 - Intro
