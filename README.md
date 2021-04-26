@@ -68,8 +68,41 @@ Class 07 - Timecodes
 Class 08 - Timecodes
 0:00 - Intro
 
-Class 09 - Timecodes
-0:00 - Intro
+___
+### [Class 09](https://www.youtube.com/watch?v=qrk4vr5U8W4) - Timecodes   
+[1:36](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=96s) - Intro  
+[3:26](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=206s) - Twitch Affiliate Announcement  
+[12:40](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=760s) - Questions  
+[27:51](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=1671s) - Agenda  
+[29:18](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=1758s) - Imposter Syndrome  
+[37:24](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=2244s) - Separation of Concerns  
+[40:05](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=2405s) - IDs and Classes  
+[41:30](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=2490s) - Programming, What is it?  
+[43:11](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=2591s) - True Story  
+[46:22](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=2782s) - JavaScript Basics  
+[48:00](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=2880s) - Variables  
+[51:46](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=3106s) - Variable Conventions  
+[53:21](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=3201s) - Data Types, Strings  
+[55:15](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=3315s) - Data Types, Numbers  
+[56:47](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=3407s) - Making Decisions and Comparisons  
+[58:33](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=3513s) - Logical Operators  
+[1:05:17](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=3917s) - BREAK 1  
+[1:13:45](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=4425s) - Conditional Syntax  
+[1:20:08](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=4808s) - Assignment vs. Comparison  
+[1:22:20](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=4940s) - Multiple Conditions  
+[1:24:36](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=5076s) - Let’s Code: Class, Weekend, or Boring Day?  
+[1:44:20](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=6260s) - Let’s Code: Angry Parent Simulator  
+[1:48:36](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=6516s) - Pseudo Code  
+[1:50:26](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=6626s) - Let’s Code: Temperature Converter  
+[2:17:30](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=8250s) - BREAK 2  
+[2:24:58](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=8698s) - Let’s Code: Bachelor Code  
+
+
+Links -   
+[Class Slides](https://slides.com/leonnoel/js-more-basics/)   
+[Class Materials - from Discord](https://discord.com/channels/735923219315425401/738891289071714388/753007838292344872)
+
+___
 
 Class 10 - Timecodes
 0:00 - Intro
