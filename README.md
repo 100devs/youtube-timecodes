@@ -4,6 +4,7 @@
 Table of Contents
 - [YouTube Timecodes](#youtube-timecodes)
     - [Class 01 - Timecodes](#class-01---timecodes)
+    - [Class 02 - Timecodes](#class-02---timecodes)
     - [Class 03 - Timecodes](#class-03---timecodes)
     - [Class 09 - Timecodes](#class-09---timecodes)
     - [Class 19 - Timecodes](#class-19---timecodes)
@@ -38,8 +39,38 @@ How to Study for Exams - Spaced Repetition | Evidence-based revision tips by Ali
 
 Learning How to Learn: Powerful mental tools to help you master tough subjects by Barbara Oakley https://www.coursera.org/learn/learning-how-to-learn
 ___
-Class 02 - Timecodes
-0:00 - Intro
+### [Class 02](https://www.youtube.com/watch?v=N2VlXVZJIcY) - Timecodes  
+[1:27](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=87s) - Intro   
+[3:35](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=215s) - Questions  
+[11:22](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=682s) - Agenda  
+[13:53](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=833s) - Trough of Sorrow  
+[15:32](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=932s) - Take Care of Yourself  
+[20:51](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=1251s) - Active Recall  
+[24:18](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=1458s) - Resetting Forgetting Curve  
+[27:15](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=1635s) - What is the Internet?  
+[33:53](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=2033s) - Separation of Concerns  
+[36:39](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=2199s) - HTML Syntax  
+[42:57](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=2577s) - HTML TAGS  
+[49:57](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=2997s) - Nerd Fights  
+[53:28](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=3208s) - Assisted Device Elements  
+[57:27](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=3447s) - Lists  
+[1:00:18](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=3618s) - Containing Elements  
+[1:04:18](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=3858s) - BREAK 1  
+[1:10:22](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=4222s) - Let's Look at Some Websites  
+[1:23:53](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=5033s) - Deprecated Elements  
+[1:26:52](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=5212s) - Let's Code: Lab Time  
+[1:44:30](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=6270s) - Let's Code: Lab Time Walkthrough  
+[2:08:48](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=7728s) - BREAK 2  
+[2:15:04](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=8104s) - HTML Structure  
+[2:23:35](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=8615s) - New TAGS, Navigation  
+[2:26:03](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=8763s) - Forms  
+[2:25:54](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=8754s) - Input Types  
+[2:36:04](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=9364s) - Progressive Enhancement  
+[2:41:45](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=9705s) - Homework  
+
+Links -  
+[Class Slides](https://slides.com/leonnoel/html-more-basics/)  
+[YouTube - Molly Burke - How I Use Technology as a Blind Person](https://youtu.be/TiP7aantnvE)  
 ___
 ### [Class 03](https://www.youtube.com/watch?v=y7yKMi-Xus4) - Timecodes   
 [1:05](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=65s) - Intro   
