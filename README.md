@@ -16,19 +16,19 @@ Table of Contents
     - [Class 34 - Timecodes](#class-34---timecodes)
 
 ___
-### Class 01 - Timecodes  
-0:00 - Intro  
-9:45 - We're here to learn for free! Learn about the 100Devs course and Leon!  
-21:24 - What do Software Engineers do?  
-31:00 - What is the Through of Sorrow?  
-38:35 - How to be successful by learning to manage frustration.  
-42:20 - Consistency and managing study time.  
-50:00 - What is the set up of our course? Networking and coding!  
-54:10 - More class set up including homework and networking.  
-1:11:00 - 100Devs Community Rules. Join our discord!  
-1:23:30 - Let's discuss successful learning strategies including videos by Ali Abdaal and the Coursera Learning How To Learn Course  
-1:46:00 - What is the internet?  
-2:41:30 - Let's dive into HTML5.
+### [Class 01](https://www.youtube.com/watch?v=v2k4u4k_gfg) - Timecodes  
+[0:00](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=0s) - Intro  
+[9:45](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=585s) - We're here to learn for free! Learn about the 100Devs course and Leon!  
+[21:24](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=1284s) - What do Software Engineers do?  
+[31:00](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=1860s) - What is the Through of Sorrow?  
+[38:35](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=2315s) - How to be successful by learning to manage frustration.  
+[42:20](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=2540s) - Consistency and managing study time.  
+[50:00](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=3000s) - What is the set up of our course? Networking and coding!  
+[54:10](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=3250s) - More class set up including homework and networking.  
+[1:11:00](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=4260s) - 100Devs Community Rules. Join our discord!  
+[1:23:30](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=5010s) - Let's discuss successful learning strategies including videos by Ali Abdaal and the Coursera Learning How To Learn Course  
+[1:46:00](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=6360s) - What is the internet?  
+[2:41:30](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=9690s) - Let's dive into HTML5.
 
 LINKS:
 
@@ -41,33 +41,33 @@ ___
 Class 02 - Timecodes
 0:00 - Intro
 ___
-### Class 03 - Timecodes   
-1:05 - Intro   
-2.49 - Q&A  
-7:40 - Agenda  
-10:19 - Curses Google Authenticator Multifactor  
-12:00 - Typing  
-16:10 - Reading Documentation  
-18:51 - Deep Not Wide  
-22:08 - Space Repetition  
-24:17 - What is the internet?  
-25.56 - Separation of Concerns  
-27:45 - Progressive Enhancement  
-30.56 - CSS  
-36:54 - Use a Separate CSS file  
-42:15 - CSS Syntax  
-53:13 - Cascade  
-56:20 - Color  
-1:04:18 - Fonts  
-1:09:11 - Break  
-1:15:33 - How to research?  
-1:18:08 - Let's Code  
-1:47:05 - Selecting by Relationship  
-1:58:30 - Let's Code  
-2:05:56 - Break  
-2:12:51 - IDs & Classes  
-2:17:27 - Specificity  
-2:26:25 - Homework  
+### [Class 03](https://www.youtube.com/watch?v=y7yKMi-Xus4) - Timecodes   
+[1:05](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=65s) - Intro   
+[2:49](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=169s) - Q&A  
+[7:40](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=460s) - Agenda  
+[10:19](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=619s) - Curses Google Authenticator Multifactor  
+[12:00](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=720s) - Typing  
+[16:10](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=970s) - Reading Documentation  
+[18:51](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=1131s) - Deep Not Wide  
+[22:08](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=1328s) - Space Repetition  
+[24:17](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=1457s) - What is the internet?  
+[25:56](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=1556s) - Separation of Concerns  
+[27:45](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=1665s) - Progressive Enhancement  
+[30:56](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=1856s) - CSS  
+[36:54](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=2214s) - Use a Separate CSS file  
+[42:15](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=2535s) - CSS Syntax  
+[53:13](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=3193s) - Cascade  
+[56:20](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=3380s) - Color  
+[1:04:18](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=3858s) - Fonts  
+[1:09:11](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=4151s) - Break  
+[1:15:33](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=4533s) - How to research?  
+[1:18:08](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=4688s) - Let's Code  
+[1:47:05](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=6425s) - Selecting by Relationship  
+[1:58:30](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=7110s) - Let's Code  
+[2:05:56](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=7556s) - Break  
+[2:12:51](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=7971s) - IDs & Classes  
+[2:17:27](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=8247s) - Specificity  
+[2:26:25](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=8785s) - Homework  
 ___
 Class 04 - Timecodes
 0:00 - Intro
@@ -147,80 +147,80 @@ Class 17 - Timecodes
 Class 18 - Timecodes
 0:00 - Intro
 ___
-### Class 19 - Timecodes   
-0:00 - Chat is HYPE   
-13:50 - Intro   
-16:53 - Agenda   
-17:30 - Questions?   
-19:56 - Pep talk  
-23:45 - Trough of Sorrow  
-25:08 - Health First  
-25:40 - Networking update  
-27:06 - Client deadline update  
-28:19 - Client alternative Introduction  
-30:25 - Option 1: Grassroots Volunteer  
-33:35 - Option 2: Open Source Projects  
-36:42 - Portfolio and Resume review announcement  
-40:32 - Youtube announcement  
-42:17 - Newsletter  
-43:40 - Discord update  
-47:40 - Channel Points update  
-53:14 - Stream Hardware update  
-55:33 - Merch drop  
-1:03:24 - Sponsor announcement  
-1:05:24 - 7 minute break  
-1:12:29 - Sponsor details and Thank you  
-1:31:27 - Programming  
-1:33:24 - Variables  
-1:33:43 - Conditionals  
-1:34:26 - Functions  
-1:35:31 - Loops  
-1:36:49 - Let's Code: Turbo Review  
-2:07:40 - 5 minute break  
-2:17:15 - Arrays  
-2:24:23 - Let's Code: Space Review  
-2:55:22 - End of class
+### [Class 19](https://www.youtube.com/watch?v=oEdb5wmmAwk) - Timecodes   
+[0:00](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=0s) - Chat is HYPE   
+[13:50](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=830s) - Intro   
+[16:53](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1013s) - Agenda   
+[17:30](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1050s) - Questions?   
+[19:56](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1196s) - Pep talk  
+[23:45](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1425s) - Trough of Sorrow  
+[25:08](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1508s) - Health First  
+[25:40](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1540s) - Networking update  
+[27:06](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1626s) - Client deadline update  
+[28:19](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1699s) - Client alternative Introduction  
+[30:25](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1825s) - Option 1: Grassroots Volunteer  
+[33:35](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=2015s) - Option 2: Open Source Projects  
+[36:42](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=2202s) - Portfolio and Resume review announcement  
+[40:32](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=2432s) - Youtube announcement  
+[42:17](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=2537s) - Newsletter  
+[43:40](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=2620s) - Discord update  
+[47:40](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=2860s) - Channel Points update  
+[53:14](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=3194s) - Stream Hardware update  
+[55:33](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=3333s) - Merch drop  
+[1:03:24](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=3804s) - Sponsor announcement  
+[1:05:24](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=3924s) - 7 minute break  
+[1:12:29](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=4349s) - Sponsor details and Thank you  
+[1:31:27](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=5487s) - Programming  
+[1:33:24](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=5604s) - Variables  
+[1:33:43](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=5623s) - Conditionals  
+[1:34:26](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=5666s) - Functions  
+[1:35:31](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=5731s) - Loops  
+[1:36:49](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=5809s) - Let's Code: Turbo Review  
+[2:07:40](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=7660s) - 5 minute break  
+[2:17:15](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=8235s) - Arrays  
+[2:24:23](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=8663s) - Let's Code: Space Review  
+[2:55:22](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=10522s) - End of class
 ___
-### Class 20 - Timecodes  
-0:00 - Greetings  
-8:30 - Intro  
-10:27 - Agenda  
-10:52 - Questions  
-13:01 - Working through new stream struggles  
-14:38 - Pep talk  
-16:21 - Health First  
-16:40 - Networking update  
-16:48 - Client deadline update  
-16:53 - Client alternatives  
-17:34 - Portfolio and Resume review announcement  
-19:47 - Youtube announcement  
-20:11 - Newsletter  
-20:55 - Discord update  
-21:59 - Channel Points update  
-30:21 - Sponsor announcement  
-32:39 - Merch update  
-33:50 - Stream updates  
-42:08 - Programming  
-43:25 - Variables  
-43:42 - Conditionals  
-44:33 - Functions  
-47:55 - Loops  
-48:35 - Arrays  
-50:30 - Let's Code: Turbo Review  
-1:08:48 - 5 minute break  
-1:15:48 - Let's Code: Turbo Review Continued  
-1:36:40 - Objects  
-1:44:46 - Factories  
-1:58:36 - Constructor prototypes  
-2:03:46 - 5 minute break  
-2:10:02 - Global object prototype and Inheritance  
-2:14:10 - Let's Code: Objects - Tony Hawk Pro Skater  
-2:28:41 - Class syntax  
-2:30:40 - APIs  
-2:38:56 - Let's Code: Dog Photos!  
-2:47:05 - API Query Parameter  
-2:49:49 - Let's Code: Shots  
-3:05:10 - End of class
+### [Class 20](https://www.youtube.com/watch?v=LJHIfPOboEE) - Timecodes  
+[0:00](https://www.youtube.com/watch?v=LJHIfPOboEE&t=0s) - Greetings  
+[8:30](https://www.youtube.com/watch?v=LJHIfPOboEE&t=510s) - Intro  
+[10:27](https://www.youtube.com/watch?v=LJHIfPOboEE&t=627s) - Agenda  
+[10:52](https://www.youtube.com/watch?v=LJHIfPOboEE&t=652s) - Questions  
+[13:01](https://www.youtube.com/watch?v=LJHIfPOboEE&t=781s) - Working through new stream struggles  
+[14:38](https://www.youtube.com/watch?v=LJHIfPOboEE&t=878s) - Pep talk  
+[16:21](https://www.youtube.com/watch?v=LJHIfPOboEE&t=981s) - Health First  
+[16:40](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1000s) - Networking update  
+[16:48](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1008s) - Client deadline update  
+[16:53](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1013s) - Client alternatives  
+[17:34](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1054s) - Portfolio and Resume review announcement  
+[19:47](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1187s) - Youtube announcement  
+[20:11](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1211s) - Newsletter  
+[20:55](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1255s) - Discord update  
+[21:59](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1319s) - Channel Points update  
+[30:21](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1821s) - Sponsor announcement  
+[32:39](https://www.youtube.com/watch?v=LJHIfPOboEE&t=1959s) - Merch update  
+[33:50](https://www.youtube.com/watch?v=LJHIfPOboEE&t=2030s) - Stream updates  
+[42:08](https://www.youtube.com/watch?v=LJHIfPOboEE&t=2528s) - Programming  
+[43:25](https://www.youtube.com/watch?v=LJHIfPOboEE&t=2605s) - Variables  
+[43:42](https://www.youtube.com/watch?v=LJHIfPOboEE&t=2622s) - Conditionals  
+[44:33](https://www.youtube.com/watch?v=LJHIfPOboEE&t=2673s) - Functions  
+[47:55](https://www.youtube.com/watch?v=LJHIfPOboEE&t=2875s) - Loops  
+[48:35](https://www.youtube.com/watch?v=LJHIfPOboEE&t=2915s) - Arrays  
+[50:30](https://www.youtube.com/watch?v=LJHIfPOboEE&t=3030s) - Let's Code: Turbo Review  
+[1:08:48](https://www.youtube.com/watch?v=LJHIfPOboEE&t=4128s) - 5 minute break  
+[1:15:48](https://www.youtube.com/watch?v=LJHIfPOboEE&t=4548s) - Let's Code: Turbo Review Continued  
+[1:36:40](https://www.youtube.com/watch?v=LJHIfPOboEE&t=5800s) - Objects  
+[1:44:46](https://www.youtube.com/watch?v=LJHIfPOboEE&t=6286s) - Factories  
+[1:58:36](https://www.youtube.com/watch?v=LJHIfPOboEE&t=7116s) - Constructor prototypes  
+[2:03:46](https://www.youtube.com/watch?v=LJHIfPOboEE&t=7426s) - 5 minute break  
+[2:10:02](https://www.youtube.com/watch?v=LJHIfPOboEE&t=7802s) - Global object prototype and Inheritance  
+[2:14:10](https://www.youtube.com/watch?v=LJHIfPOboEE&t=8050s) - Let's Code: Objects - Tony Hawk Pro Skater  
+[2:28:41](https://www.youtube.com/watch?v=LJHIfPOboEE&t=8921s) - Class syntax  
+[2:30:40](https://www.youtube.com/watch?v=LJHIfPOboEE&t=9040s) - APIs  
+[2:38:56](https://www.youtube.com/watch?v=LJHIfPOboEE&t=9536s) - Let's Code: Dog Photos!  
+[2:47:05](https://www.youtube.com/watch?v=LJHIfPOboEE&t=10025s) - API Query Parameter  
+[2:49:49](https://www.youtube.com/watch?v=LJHIfPOboEE&t=10189s) - Let's Code: Shots  
+[3:05:10](https://www.youtube.com/watch?v=LJHIfPOboEE&t=11110s) - End of class
 ___
 Class 21 - Timecodes
 0:00 - Intro
@@ -243,103 +243,103 @@ Class 26 - Timecodes
 Class 27 - Timecodes
 0:00 - Intro
 ___
-### Class 28 - Timecodes  
-0:00 - Intro  
-10:35 - Questions: About last class of life  
-21:35 - Fresh Start  
-24:48 - Active Recall & Spaced Repetition  
-27:00 - Where are you?  
-38:28 - How to play the game?  
-46:45 - Crafting your Story  
-56:25 - Let's Craft: Your Story Blurb  
-1:03:20 - Online Persona  
-1:11:40 - Twitter  
-1:25:00 - Linkedin/Angelist  
-1:38:37 - Portfolio  
-1:45:55 - Resume  
-1:51:15 - Cover Letter  
-1:54:45 - GitHub  
-2:14:25 - Recruiters Love Green Squares  
-2:20:10 - HitList  
-2:39:03 - 100Hours Project  
-2:47:21 - Process  
-2:56:57 - How to prepare?
+### [Class 28](https://www.youtube.com/watch?v=urjSM4lE6GQ) - Timecodes  
+[0:00](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=0s) - Intro  
+[10:35](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=635s) - Questions: About last class of life  
+[21:35](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=1295s) - Fresh Start  
+[24:48](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=1488s) - Active Recall & Spaced Repetition  
+[27:00](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=1620s) - Where are you?  
+[38:28](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=2308s) - How to play the game?  
+[46:45](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=2805s) - Crafting your Story  
+[56:25](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=3385s) - Let's Craft: Your Story Blurb  
+[1:03:20](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=3800s) - Online Persona  
+[1:11:40](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=4300s) - Twitter  
+[1:25:00](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=5100s) - Linkedin/Angelist  
+[1:38:37](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=5917s) - Portfolio  
+[1:45:55](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=6355s) - Resume  
+[1:51:15](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=6675s) - Cover Letter  
+[1:54:45](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=6885s) - GitHub  
+[2:14:25](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=8065s) - Recruiters Love Green Squares  
+[2:20:10](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=8410s) - HitList  
+[2:39:03](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=9543s) - 100Hours Project  
+[2:47:21](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=10041s) - Process  
+[2:56:57](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=10617s) - How to prepare?
 ___
-### Class 29 - Timecodes  
-0:00 - Intro  
-17:30 - Questions: About last class or life  
-23:18 - Spaced Repetition & Anki Gang  
-26:10 - Stream Team  
-29:42 - Newsletter  
-49:25 - Where are you? What do you want?  
-53:22 - Checklist  
-1:02:02 - Can you code?  
-1:12:26 - Online Persona  
-1:12:44 - Twitter  
-1:17:34 - Linkedin/Angelist  
-1:24:23 - Push Every Day  
-1:30:52 - 100Hours Project  
-1:32:10 - Interviewing  
-1:35:33 - What are the steps in this process?  
-1:39:24 - How to Prepare?  
-1:40:51 - Behavioral (C.A.R)  
-2:10:47 - Technical Questions (E.U.E)  
-2:14:00 - Technical Whiteboard  
-2:22:06 - P.R.E.P  
-2:26:39 - Let's PREP - FizzBuzz  
-2:35:30 - Questions
+### [Class 29](https://www.youtube.com/watch?v=a01qCnUY5Xg) - Timecodes  
+[0:00](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=0s) - Intro  
+[17:30](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=1050s) - Questions: About last class or life  
+[23:18](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=1398s) - Spaced Repetition & Anki Gang  
+[26:10](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=1570s) - Stream Team  
+[29:42](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=1782s) - Newsletter  
+[49:25](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=2965s) - Where are you? What do you want?  
+[53:22](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=3202s) - Checklist  
+[1:02:02](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=3722s) - Can you code?  
+[1:12:26](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=4346s) - Online Persona  
+[1:12:44](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=4364s) - Twitter  
+[1:17:34](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=4654s) - Linkedin/Angelist  
+[1:24:23](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=5063s) - Push Every Day  
+[1:30:52](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=5452s) - 100Hours Project  
+[1:32:10](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=5530s) - Interviewing  
+[1:35:33](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=5733s) - What are the steps in this process?  
+[1:39:24](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=5964s) - How to Prepare?  
+[1:40:51](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=6051s) - Behavioral (C.A.R)  
+[2:10:47](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=7847s) - Technical Questions (E.U.E)  
+[2:14:00](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=8040s) - Technical Whiteboard  
+[2:22:06](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=8526s) - P.R.E.P  
+[2:26:39](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=8799s) - Let's PREP - FizzBuzz  
+[2:35:30](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=9330s) - Questions
 
 ___
 Class 30 - Timecodes
 0:00 - Intro
 
 ___
-### Class 31 - Timecodes  
-0:00 - Intro  
-4:27 - How to solve all the world's problems  
-4:42 - Welcome
-9:48 - Question of the Day  
-12:05 - Agenda  
-12:53 - Questions?  
-16:51 - Reminders for this week  
-22:18 - Concept Review  
-22:54 - JS is single-threaded  
-25:04 - JS runs in a browser  
-26:57 - JS All Lies  
-29:43 - How does JS handle API responses?  
-30:28 - JS callbacks  
-35:03 - JS promises  
-42:27 - JS async/await  
-43:21 - ECMAScript aside  
-46:00 - back to JS async/await  
-47:54 - JS async/await fetch example - delete?  
-50:22 - Example: async-practice  
-1:00:28 - Break 1  
-1:05:56 - Pokemon Card Drawing  
-1:13:38 - Data Structures: Queue  
-1:18:19 - Data Structures: Stack  
-1:21:49 - Event Loop part 1  
-1:28:42 - Event Loop part 2  
-1:34:37 - Stepping through the Event Loop  
-1:43:23 - Running it back  
-1:46:02 - Event Loop Summary   
-1:48:30 - Backend BABY  
-1:49:39 - What does JS need?  
-1:50:49 - What does a server need?  
-1:53:23 - Node.js Celebration (MUSIC & LIGHTS WARNING)  
-1:54:09 - Node.js  
-1:57:18 - Engine vs Compiler  
-1:58:51 - What comes with Node?  
-2:02:23 - Install Node  
-2:02:40 - Break 2  
-2:09:22 - Example: node-intro-demo  
-2:12:52 - You can now build Fullstack Web Applications  
-2:13:20 - Example: node-backend-simple-json  
-2:17:00 - Server setup  
-2:19:35 - Our server listens for requests  
-2:22:33 - Figlet  
-2:24:47 - Go practice together   
-2:26:10 - Homework
+### [Class 31](https://www.youtube.com/watch?v=9OlDaCYCM8I) - Timecodes  
+[0:00](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=0s) - Intro  
+[4:27](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=267s) - How to solve all the world's problems  
+[4:42](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=282s) - Welcome  
+[9:48](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=588s) - Question of the Day  
+[12:05](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=725s) - Agenda  
+[12:53](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=773s) - Questions?  
+[16:51](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=1011s) - Reminders for this week  
+[22:18](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=1338s) - Concept Review  
+[22:54](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=1374s) - JS is single-threaded  
+[25:04](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=1504s) - JS runs in a browser  
+[26:57](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=1617s) - JS All Lies  
+[29:43](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=1783s) - How does JS handle API responses?  
+[30:28](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=1828s) - JS callbacks  
+[35:03](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=2103s) - JS promises  
+[42:27](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=2547s) - JS async/await  
+[43:21](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=2601s) - ECMAScript aside  
+[46:00](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=2760s) - back to JS async/await  
+[47:54](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=2874s) - JS async/await fetch example - delete?  
+[50:22](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=3022s) - Example: async-practice  
+[1:00:28](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=3628s) - Break 1  
+[1:05:56](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=3956s) - Pokemon Card Drawing  
+[1:13:38](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=4418s) - Data Structures: Queue  
+[1:18:19](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=4699s) - Data Structures: Stack  
+[1:21:49](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=4909s) - Event Loop part 1  
+[1:28:42](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=5322s) - Event Loop part 2  
+[1:34:37](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=5677s) - Stepping through the Event Loop  
+[1:43:23](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=6203s) - Running it back  
+[1:46:02](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=6362s) - Event Loop Summary   
+[1:48:30](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=6510s) - Backend BABY  
+[1:49:39](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=6579s) - What does JS need?  
+[1:50:49](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=6649s) - What does a server need?  
+[1:53:23](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=6803s) - Node.js Celebration (MUSIC & LIGHTS WARNING)  
+[1:54:09](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=6849s) - Node.js  
+[1:57:18](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=7038s) - Engine vs Compiler  
+[1:58:51](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=7131s) - What comes with Node?  
+[2:02:23](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=7343s) - Install Node  
+[2:02:40](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=7360s) - Break 2  
+[2:09:22](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=7762s) - Example: node-intro-demo  
+[2:12:52](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=7972s) - You can now build Fullstack Web Applications  
+[2:13:20](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=8000s) - Example: node-backend-simple-json  
+[2:17:00](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=8220s) - Server setup  
+[2:19:35](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=8375s) - Our server listens for requests  
+[2:22:33](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=8553s) - Figlet  
+[2:24:47](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=8687s) - Go practice together   
+[2:26:10](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=8770s) - Homework
 
 LINKS:  
 Slides
@@ -373,31 +373,31 @@ https://nodejs.org/en/about/releases/
 Professional Links Submission  
 https://docs.google.com/forms/d/e/1FAIpQLSc1jhBZKVJNxH8Ehf-qodzTzpYuloBmPan-CqaoMwL8xYkM8w/viewform 
 ___
-### Class 32 - Timecodes  
-0:00 - Intro  
-9:00 - Class Agenda  
-10:00 - General Questions  
-12:47 - What's coming in the next few classes and the class expectation  
-24:59 - Backend Review (Event Loop)  
-43:45 - Sticker Raffle  
-47:47 - Back to Backend Review (Node)  
-58:16 - Let's Code - More Complex Server with Express  
-1:00:20 - Break  
-1:08:04 - Introduction to Express  
-1:24:28 - What is CRUD?  
-1:35:17 - Build an App with Express  
-1:41:14 - CRUD API Example: How Instagram is built  
-1:46:01 - Start to Build the App  
-1:46:25 - Key Steps (Set Up the Project, Serve up HTML, Server up JSON, Push to Heroku)  
-1:49:54 - Demo the Simple Rapper Api  
-1:53:18 - Start Building Rap Api  
-2:13:36 - Break  
-2:19:37 - Back to Building Rap Api  
-2:29:17 - Build Client Side to Consume Rap Api  
-2:50:59 - Add More Rappers in the Api  
-3:09:37 - Talk through the Code  
-3:13:25 - Push to Heroku  
-3:29:27 - Homework  
+### [Class 32](https://www.youtube.com/watch?v=46LPXys5vYE) - Timecodes  
+[0:00](https://www.youtube.com/watch?v=46LPXys5vYE&t=0s) - Intro  
+[9:00](https://www.youtube.com/watch?v=46LPXys5vYE&t=540s) - Class Agenda  
+[10:00](https://www.youtube.com/watch?v=46LPXys5vYE&t=600s) - General Questions  
+[12:47](https://www.youtube.com/watch?v=46LPXys5vYE&t=767s) - What's coming in the next few classes and the class expectation  
+[24:59](https://www.youtube.com/watch?v=46LPXys5vYE&t=1499s) - Backend Review (Event Loop)  
+[43:45](https://www.youtube.com/watch?v=46LPXys5vYE&t=2625s) - Sticker Raffle  
+[47:47](https://www.youtube.com/watch?v=46LPXys5vYE&t=2867s) - Back to Backend Review (Node)  
+[58:16](https://www.youtube.com/watch?v=46LPXys5vYE&t=3496s) - Let's Code - More Complex Server with Express  
+[1:00:20](https://www.youtube.com/watch?v=46LPXys5vYE&t=3620s) - Break  
+[1:08:04](https://www.youtube.com/watch?v=46LPXys5vYE&t=4084s) - Introduction to Express  
+[1:24:28](https://www.youtube.com/watch?v=46LPXys5vYE&t=5068s) - What is CRUD?  
+[1:35:17](https://www.youtube.com/watch?v=46LPXys5vYE&t=5717s) - Build an App with Express  
+[1:41:14](https://www.youtube.com/watch?v=46LPXys5vYE&t=6074s) - CRUD API Example: How Instagram is built  
+[1:46:01](https://www.youtube.com/watch?v=46LPXys5vYE&t=6361s) - Start to Build the App  
+[1:46:25](https://www.youtube.com/watch?v=46LPXys5vYE&t=6385s) - Key Steps (Set Up the Project, Serve up HTML, Server up JSON, Push to Heroku)  
+[1:49:54](https://www.youtube.com/watch?v=46LPXys5vYE&t=6594s) - Demo the Simple Rapper Api  
+[1:53:18](https://www.youtube.com/watch?v=46LPXys5vYE&t=6798s) - Start Building Rap Api  
+[2:13:36](https://www.youtube.com/watch?v=46LPXys5vYE&t=8016s) - Break  
+[2:19:37](https://www.youtube.com/watch?v=46LPXys5vYE&t=8377s) - Back to Building Rap Api  
+[2:29:17](https://www.youtube.com/watch?v=46LPXys5vYE&t=8957s) - Build Client Side to Consume Rap Api  
+[2:50:59](https://www.youtube.com/watch?v=46LPXys5vYE&t=10259s) - Add More Rappers in the Api  
+[3:09:37](https://www.youtube.com/watch?v=46LPXys5vYE&t=11377s) - Talk through the Code  
+[3:13:25](https://www.youtube.com/watch?v=46LPXys5vYE&t=11605s) - Push to Heroku  
+[3:29:27](https://www.youtube.com/watch?v=46LPXys5vYE&t=12567s) - Homework  
 
 LINKS: 
 
@@ -416,24 +416,24 @@ CRUD Express API https://github.com/100devs/rap-api
 Client Side Code with Async Await Request https://github.com/100devs/client-side-rap-api
 
 ___ 
-### Class 33 - Timecodes  
-1:28 - Intro  
-10:25 - Class Agenda & discussion  
-14:36 - General Questions  
-14:36 - What's coming in the next few classes  
-20:21 - Backend Review  
-41:43 - Let's talk about CRUD  
-43:40 - Building a simple CRUD app  
-48:30 - Introducing Mongo DB  
-58:03 - Adding EJS  
-1:09:55 - Take a break  
-1:16:54 - Let's talk about what our app will do  
-1:17:19 - What does get do  
-1:36:20 - What does post do  
-1:58:11 - Take a break  
-2:04:12 - What does delete do  
-2:33:42 - Let's talk through our code  
-3:07:09 - What you need to do for next class  
+### [Class 33](https://www.youtube.com/watch?v=pjxJTWdVh-M) - Timecodes  
+[1:28](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=88s) - Intro  
+[10:25](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=625s) - Class Agenda & discussion  
+[14:36](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=876s) - General Questions  
+[14:36](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=876s) - What's coming in the next few classes  
+[20:21](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=1221s) - Backend Review  
+[41:43](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=2503s) - Let's talk about CRUD  
+[43:40](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=2620s) - Building a simple CRUD app  
+[48:30](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=2910s) - Introducing Mongo DB  
+[58:03](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=3483s) - Adding EJS  
+[1:09:55](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=4195s) - Take a break  
+[1:16:54](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=4614s) - Let's talk about what our app will do  
+[1:17:19](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=4639s) - What does get do  
+[1:36:20](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=5780s) - What does post do  
+[1:58:11](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=7091s) - Take a break  
+[2:04:12](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=7452s) - What does delete do  
+[2:33:42](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=9222s) - Let's talk through our code  
+[3:07:09](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=11229s) - What you need to do for next class  
 
 LINKS: 
 
@@ -444,32 +444,32 @@ CODES:
 Rap Node w/ Express APP https://github.com/100devs/rap-names-express 
 
 ___
-### Class 34 - Timecodes  
-00:00 - Intro  
-5:04 - Class Agenda & discussion  
-13:32 - General Questions  
-15:43 - What's coming in the next few classes  
-25:39 - Getting through the Trough of Sorrow  
-44:23 - Vomit code: your code doesn't need to be pretty  
-48:39 - Backend review  
-53:40 - Express review  
-59:33 - What we'll be building tonight  
-1:02:34 - Take a break  
-1:12:47 - How does the internet work  
-1:27:32 - CRUD apps  
-1:29:20 - What is MongoDB, what it does, and how to use it  
-1:31:30 - EJS and what it's useful for  
-1:41:45 - Water intermission and answering EJS chat questions  
-1:48:30 - Talking through our code  
-1:53:26 - What are some Create (post) requests?  
-2:05:18 - Take a break  
-2:12:02 - Mask raffle  
-2:16:37 - What are some Read (get) requests?  
-2:22:21 - What are some Delete (delete) requests?  
-2:27:09 - What are some Update (put) requests?  
-2:50:35 - Reviewing the code we just wrote  
-2:55:45 - Using .env  
-3:00:33 - What you need to do by next class  
+### [Class 34](https://www.youtube.com/watch?v=pPZ2HhUUuwI) - Timecodes  
+[00:00](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=0s) - Intro  
+[5:04](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=304s) - Class Agenda & discussion  
+[13:32](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=812s) - General Questions  
+[15:43](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=943s) - What's coming in the next few classes  
+[25:39](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=1539s) - Getting through the Trough of Sorrow  
+[44:23](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=2663s) - Vomit code: your code doesn't need to be pretty  
+[48:39](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=2919s) - Backend review  
+[53:40](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=3220s) - Express review  
+[59:33](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=3573s) - What we'll be building tonight  
+[1:02:34](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=3754s) - Take a break  
+[1:12:47](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=4367s) - How does the internet work  
+[1:27:32](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=5252s) - CRUD apps  
+[1:29:20](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=5360s) - What is MongoDB, what it does, and how to use it  
+[1:31:30](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=5490s) - EJS and what it's useful for  
+[1:41:45](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=6105s) - Water intermission and answering EJS chat questions  
+[1:48:30](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=6510s) - Talking through our code  
+[1:53:26](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=6806s) - What are some Create (post) requests?  
+[2:05:18](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=7518s) - Take a break  
+[2:12:02](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=7922s) - Mask raffle  
+[2:16:37](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=8197s) - What are some Read (get) requests?  
+[2:22:21](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=8541s) - What are some Delete (delete) requests?  
+[2:27:09](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=8829s) - What are some Update (put) requests?  
+[2:50:35](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=10235s) - Reviewing the code we just wrote  
+[2:55:45](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=10545s) - Using .env  
+[3:00:33](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=10833s) - What you need to do by next class  
 ___
 
 Class 35 - Timecodes
