@@ -133,6 +133,19 @@ Class 25 - Timecodes
 
 Class 26 - Timecodes
 0:00 - Intro
+18:54 - Spaced repetition / Review
+24:40 - Recap OOP Baby
+26:54 - Recap Encapsulation
+36:28 - Recap Abstraction
+46:15 - Let's Start a Farm (Extend a Class)
+49:40 - What is "super" used for?
+59:40 - Inheritance BABY
+1:10:15 - Let's Code Make a Child Class
+1:30:00 - Problems with coworkers changing property names? Use underscores in property names.
+1:50:00 - Let's Code Animal System
+2:18:20 - Starts hinting at Polymorphism
+2:45:00 - Polymorphism BABY
+2:47:28 - The Four Pillars of OOP (if they made sense)
 
 Class 27 - Timecodes
 0:00 - Intro
