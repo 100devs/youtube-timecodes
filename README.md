@@ -1,5 +1,6 @@
 # YouTube Timecodes
-[Learn with Leon](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw/videos) - All YouTube Videos
+[Learn with Leon](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw/videos) - All YouTube Videos  
+
 
 Table of Contents
 - [YouTube Timecodes](#youtube-timecodes)
@@ -33,6 +34,9 @@ ___
 [2:41:30](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=9690s) - Let's dive into HTML5.
 
 LINKS:
+
+[Class Slides](https://slides.com/leonnoel/html-the-basics-100devs)  
+[Class Materials - Discord](https://cdn.discordapp.com/attachments/738891289071714388/770761556316913684/class01-materials.zip)
 
 How to study for exams - Evidence-based revision tips by Ali Abdaal https://www.youtube.com/watch?v=ukLnPbIffxE
 
@@ -71,6 +75,7 @@ ___
 
 Links -  
 [Class Slides](https://slides.com/leonnoel/html-more-basics/)  
+[Class Materials - Discord](https://cdn.discordapp.com/attachments/738891289071714388/771486362478182420/class02-materials.zip)  
 [YouTube - Molly Burke - How I Use Technology as a Blind Person](https://youtu.be/TiP7aantnvE)  
 ___
 ### [Class 03](https://www.youtube.com/watch?v=y7yKMi-Xus4) - Come Learn CSS!  
@@ -100,6 +105,10 @@ ___
 [2:12:51](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=7971s) - IDs & Classes  
 [2:17:27](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=8247s) - Specificity  
 [2:26:25](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=8785s) - Homework  
+
+Links -  
+[Class Slides](https://slides.com/leonnoel/css-the-basics-100devs)  
+[Class Materials - Discord](https://cdn.discordapp.com/attachments/738891289071714388/774030694124617728/class03-materials.zip)
 ___
 ### [Class 04](https://www.youtube.com/watch?v=xTNCtSRz6No) - Come Learn CSS Layout!
 [0:44](https://youtu.be/xTNCtSRz6No?t=44) - Intro  
@@ -114,7 +123,21 @@ ___
 [54:10](https://youtu.be/xTNCtSRz6No?t=3250) - Let's Code: Some Basic CSS  
 [1:16:50](https://youtu.be/xTNCtSRz6No?t=4610) - BREAK 1  
 [1:23:07](https://youtu.be/xTNCtSRz6No?t=4987) - Hand Health  
+[1:28:45](https://youtu.be/xTNCtSRz6No?t=5325) - Selecting By Relationship  
+[1:34:43](https://youtu.be/xTNCtSRz6No?t=5683) - Let's Code: Some Relationships  
+[1:50:56](https://youtu.be/xTNCtSRz6No?t=6656) - IDs & Classes  
+[1:53:18](https://youtu.be/xTNCtSRz6No?t=6799) - Specificity  
+[2:01:13](https://youtu.be/xTNCtSRz6No?t=7273) - The Box Model  
+[2:16:41](https://youtu.be/xTNCtSRz6No?t=8201) - BREAK 2  
+[2:23:02](https://youtu.be/xTNCtSRz6No?t=8582) - Specificity Practice  
+[2:36:58](https://youtu.be/xTNCtSRz6No?t=9418) - Time for Some Layouts - Floats  
+[2:41:34](https://youtu.be/xTNCtSRz6No?t=9694) - 15 Minutes of PAIN  
+[3:02:42](https://youtu.be/xTNCtSRz6No?t=10962) - Homework  
 
+Links -  
+[Class Slides](https://slides.com/leonnoel/css-more-basics-100devs)  
+[Class Materials - Discord](https://cdn.discordapp.com/attachments/738891289071714388/775849935644000266/class04-materials.zip)  
+[Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)  
 
 ___
 
