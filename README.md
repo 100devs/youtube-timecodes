@@ -3,22 +3,22 @@
 
 Table of Contents
 - [YouTube Timecodes](#youtube-timecodes)
-    - [Class 01 - Timecodes - Learn the Basics of HTML!](#class-01---timecodes---learn-the-basics-of-html)
-    - [Class 02 - Timecodes - Come Learn More About HTML!](#class-02---timecodes---come-learn-more-about-html)
-    - [Class 03 - Timecodes - Come Learn CSS!](#class-03---timecodes---come-learn-css)
-    - [Class 04 - Timecodes - Come Learn CSS Layout!](#class-04---timecodes---come-learn-css-layout)
-    - [Class 09 - Timecodes](#class-09---timecodes)
-    - [Class 19 - Timecodes](#class-19---timecodes)
-    - [Class 20 - Timecodes](#class-20---timecodes)
-    - [Class 28 - Timecodes](#class-28---timecodes)
-    - [Class 29 - Timecodes](#class-29---timecodes)
-    - [Class 31 - Timecodes](#class-31---timecodes)
-    - [Class 32 - Timecodes](#class-32---timecodes)
-    - [Class 33 - Timecodes](#class-33---timecodes)
-    - [Class 34 - Timecodes](#class-34---timecodes)
+    - [Class 01 - Learn the Basics of HTML!](#class-01---learn-the-basics-of-html)
+    - [Class 02 - Come Learn More About HTML!](#class-02---come-learn-more-about-html)
+    - [Class 03 - Come Learn CSS!](#class-03---come-learn-css)
+    - [Class 04 - Come Learn CSS Layout!](#class-04---come-learn-css-layout)
+    - [Class 09 - Come Learn Basic JavaScript!](#class-09---come-learn-basic-javascript)
+    - [Class 19 - Come Review JS Objects!](#class-19---come-review-js-objects)
+    - [Class 20 - Come Learn About APIs with JavaScript!](#class-20---come-learn-about-apis-with-javascript)
+    - [Class 28 - The Secret to a Job in Tech! Pt. 1](#class-28---the-secret-to-a-job-in-tech-pt-1)
+    - [Class 29 - The Secret to a Job in Tech! Pt. 2](#class-29---the-secret-to-a-job-in-tech-pt-2)
+    - [Class 31 - The JavaScript Event Loop](#class-31---the-javascript-event-loop)
+    - [Class 32 - Learn to Build Your Own API!](#class-32---learn-to-build-your-own-api)
+    - [Class 33 - Build Apps with Node & Express!](#class-33---build-apps-with-node--express)
+    - [Class 34 - Build a Simple CRUD App with Node & Express!](#class-34---build-a-simple-crud-app-with-node--express)
 
 ___
-### [Class 01](https://www.youtube.com/watch?v=v2k4u4k_gfg) - Timecodes - Learn the Basics of HTML! 
+### [Class 01](https://www.youtube.com/watch?v=v2k4u4k_gfg) - Learn the Basics of HTML! 
 [0:00](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=0s) - Intro  
 [9:45](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=585s) - We're here to learn for free! Learn about the 100Devs course and Leon!  
 [21:24](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=1284s) - What do Software Engineers do?  
@@ -40,7 +40,7 @@ How to Study for Exams - Spaced Repetition | Evidence-based revision tips by Ali
 
 Learning How to Learn: Powerful mental tools to help you master tough subjects by Barbara Oakley https://www.coursera.org/learn/learning-how-to-learn
 ___
-### [Class 02](https://www.youtube.com/watch?v=N2VlXVZJIcY) - Timecodes - Come Learn More About HTML! 
+### [Class 02](https://www.youtube.com/watch?v=N2VlXVZJIcY) - Come Learn More About HTML! 
 [1:27](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=87s) - Intro   
 [3:35](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=215s) - Questions  
 [11:22](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=682s) - Agenda  
@@ -73,7 +73,7 @@ Links -
 [Class Slides](https://slides.com/leonnoel/html-more-basics/)  
 [YouTube - Molly Burke - How I Use Technology as a Blind Person](https://youtu.be/TiP7aantnvE)  
 ___
-### [Class 03](https://www.youtube.com/watch?v=y7yKMi-Xus4) - Timecodes - Come Learn CSS!  
+### [Class 03](https://www.youtube.com/watch?v=y7yKMi-Xus4) - Come Learn CSS!  
 [1:05](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=65s) - Intro   
 [2:49](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=169s) - Q&A  
 [7:40](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=460s) - Agenda  
@@ -101,7 +101,7 @@ ___
 [2:17:27](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=8247s) - Specificity  
 [2:26:25](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=8785s) - Homework  
 ___
-### [Class 04](https://www.youtube.com/watch?v=xTNCtSRz6No) - Timecodes - Come Learn CSS Layout!
+### [Class 04](https://www.youtube.com/watch?v=xTNCtSRz6No) - Come Learn CSS Layout!
 [0:44](https://youtu.be/xTNCtSRz6No?t=44) - Intro  
 [2:49](https://youtu.be/xTNCtSRz6No?t=169) - Questions  
 [12:49](https://youtu.be/xTNCtSRz6No?t=769) - Agenda  
@@ -131,7 +131,7 @@ Class 08 - Timecodes
 0:00 - Intro
 
 ___
-### [Class 09](https://www.youtube.com/watch?v=qrk4vr5U8W4) - Timecodes   
+### [Class 09](https://www.youtube.com/watch?v=qrk4vr5U8W4) - Come Learn Basic JavaScript!  
 [1:36](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=96s) - Intro  
 [3:26](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=206s) - Twitch Affiliate Announcement  
 [12:40](https://www.youtube.com/watch?v=qrk4vr5U8W4&t=760s) - Questions  
@@ -193,7 +193,7 @@ Class 17 - Timecodes
 Class 18 - Timecodes
 0:00 - Intro
 ___
-### [Class 19](https://www.youtube.com/watch?v=oEdb5wmmAwk) - Timecodes   
+### [Class 19](https://www.youtube.com/watch?v=oEdb5wmmAwk) - Come Review JS Objects!  
 [0:00](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=0s) - Chat is HYPE   
 [13:50](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=830s) - Intro   
 [16:53](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=1013s) - Agenda   
@@ -227,7 +227,7 @@ ___
 [2:24:23](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=8663s) - Let's Code: Space Review  
 [2:55:22](https://www.youtube.com/watch?v=oEdb5wmmAwk&t=10522s) - End of class
 ___
-### [Class 20](https://www.youtube.com/watch?v=LJHIfPOboEE) - Timecodes  
+### [Class 20](https://www.youtube.com/watch?v=LJHIfPOboEE) - Come Learn About APIs with JavaScript! 
 [0:00](https://www.youtube.com/watch?v=LJHIfPOboEE&t=0s) - Greetings  
 [8:30](https://www.youtube.com/watch?v=LJHIfPOboEE&t=510s) - Intro  
 [10:27](https://www.youtube.com/watch?v=LJHIfPOboEE&t=627s) - Agenda  
@@ -289,7 +289,7 @@ Class 26 - Timecodes
 Class 27 - Timecodes
 0:00 - Intro
 ___
-### [Class 28](https://www.youtube.com/watch?v=urjSM4lE6GQ) - Timecodes  
+### [Class 28](https://www.youtube.com/watch?v=urjSM4lE6GQ) - The Secret to a Job in Tech! Pt. 1
 [0:00](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=0s) - Intro  
 [10:35](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=635s) - Questions: About last class of life  
 [21:35](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=1295s) - Fresh Start  
@@ -311,7 +311,7 @@ ___
 [2:47:21](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=10041s) - Process  
 [2:56:57](https://www.youtube.com/watch?v=urjSM4lE6GQ&t=10617s) - How to prepare?
 ___
-### [Class 29](https://www.youtube.com/watch?v=a01qCnUY5Xg) - Timecodes  
+### [Class 29](https://www.youtube.com/watch?v=a01qCnUY5Xg) - The Secret to a Job in Tech! Pt. 2 
 [0:00](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=0s) - Intro  
 [17:30](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=1050s) - Questions: About last class or life  
 [23:18](https://www.youtube.com/watch?v=a01qCnUY5Xg&t=1398s) - Spaced Repetition & Anki Gang  
@@ -340,7 +340,7 @@ Class 30 - Timecodes
 0:00 - Intro
 
 ___
-### [Class 31](https://www.youtube.com/watch?v=9OlDaCYCM8I) - Timecodes  
+### [Class 31](https://www.youtube.com/watch?v=9OlDaCYCM8I) - The JavaScript Event Loop 
 [0:00](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=0s) - Intro  
 [4:27](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=267s) - How to solve all the world's problems  
 [4:42](https://www.youtube.com/watch?v=9OlDaCYCM8I&t=282s) - Welcome  
@@ -419,7 +419,7 @@ https://nodejs.org/en/about/releases/
 Professional Links Submission  
 https://docs.google.com/forms/d/e/1FAIpQLSc1jhBZKVJNxH8Ehf-qodzTzpYuloBmPan-CqaoMwL8xYkM8w/viewform 
 ___
-### [Class 32](https://www.youtube.com/watch?v=46LPXys5vYE) - Timecodes  
+### [Class 32](https://www.youtube.com/watch?v=46LPXys5vYE) - Learn to Build Your Own API! 
 [0:00](https://www.youtube.com/watch?v=46LPXys5vYE&t=0s) - Intro  
 [9:00](https://www.youtube.com/watch?v=46LPXys5vYE&t=540s) - Class Agenda  
 [10:00](https://www.youtube.com/watch?v=46LPXys5vYE&t=600s) - General Questions  
@@ -462,7 +462,7 @@ CRUD Express API https://github.com/100devs/rap-api
 Client Side Code with Async Await Request https://github.com/100devs/client-side-rap-api
 
 ___ 
-### [Class 33](https://www.youtube.com/watch?v=pjxJTWdVh-M) - Timecodes  
+### [Class 33](https://www.youtube.com/watch?v=pjxJTWdVh-M) - Build Apps with Node & Express! 
 [1:28](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=88s) - Intro  
 [10:25](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=625s) - Class Agenda & discussion  
 [14:36](https://www.youtube.com/watch?v=pjxJTWdVh-M&t=876s) - General Questions  
@@ -490,7 +490,7 @@ CODES:
 Rap Node w/ Express APP https://github.com/100devs/rap-names-express 
 
 ___
-### [Class 34](https://www.youtube.com/watch?v=pPZ2HhUUuwI) - Timecodes  
+### [Class 34](https://www.youtube.com/watch?v=pPZ2HhUUuwI) - Build a Simple CRUD App with Node & Express! 
 [00:00](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=0s) - Intro  
 [5:04](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=304s) - Class Agenda & discussion  
 [13:32](https://www.youtube.com/watch?v=pPZ2HhUUuwI&t=812s) - General Questions  
