@@ -3,9 +3,10 @@
 
 Table of Contents
 - [YouTube Timecodes](#youtube-timecodes)
-    - [Class 01 - Timecodes](#class-01---timecodes)
-    - [Class 02 - Timecodes](#class-02---timecodes)
-    - [Class 03 - Timecodes](#class-03---timecodes)
+    - [Class 01 - Timecodes - Learn the Basics of HTML!](#class-01---timecodes---learn-the-basics-of-html)
+    - [Class 02 - Timecodes - Come Learn More About HTML!](#class-02---timecodes---come-learn-more-about-html)
+    - [Class 03 - Timecodes - Come Learn CSS!](#class-03---timecodes---come-learn-css)
+    - [Class 04 - Timecodes - Come Learn CSS Layout!](#class-04---timecodes---come-learn-css-layout)
     - [Class 09 - Timecodes](#class-09---timecodes)
     - [Class 19 - Timecodes](#class-19---timecodes)
     - [Class 20 - Timecodes](#class-20---timecodes)
@@ -17,7 +18,7 @@ Table of Contents
     - [Class 34 - Timecodes](#class-34---timecodes)
 
 ___
-### [Class 01](https://www.youtube.com/watch?v=v2k4u4k_gfg) - Timecodes  
+### [Class 01](https://www.youtube.com/watch?v=v2k4u4k_gfg) - Timecodes - Learn the Basics of HTML! 
 [0:00](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=0s) - Intro  
 [9:45](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=585s) - We're here to learn for free! Learn about the 100Devs course and Leon!  
 [21:24](https://www.youtube.com/watch?v=v2k4u4k_gfg&t=1284s) - What do Software Engineers do?  
@@ -39,7 +40,7 @@ How to Study for Exams - Spaced Repetition | Evidence-based revision tips by Ali
 
 Learning How to Learn: Powerful mental tools to help you master tough subjects by Barbara Oakley https://www.coursera.org/learn/learning-how-to-learn
 ___
-### [Class 02](https://www.youtube.com/watch?v=N2VlXVZJIcY) - Timecodes  
+### [Class 02](https://www.youtube.com/watch?v=N2VlXVZJIcY) - Timecodes - Come Learn More About HTML! 
 [1:27](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=87s) - Intro   
 [3:35](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=215s) - Questions  
 [11:22](https://www.youtube.com/watch?v=N2VlXVZJIcY&t=682s) - Agenda  
@@ -72,7 +73,7 @@ Links -
 [Class Slides](https://slides.com/leonnoel/html-more-basics/)  
 [YouTube - Molly Burke - How I Use Technology as a Blind Person](https://youtu.be/TiP7aantnvE)  
 ___
-### [Class 03](https://www.youtube.com/watch?v=y7yKMi-Xus4) - Timecodes   
+### [Class 03](https://www.youtube.com/watch?v=y7yKMi-Xus4) - Timecodes - Come Learn CSS!  
 [1:05](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=65s) - Intro   
 [2:49](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=169s) - Q&A  
 [7:40](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=460s) - Agenda  
@@ -100,8 +101,22 @@ ___
 [2:17:27](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=8247s) - Specificity  
 [2:26:25](https://www.youtube.com/watch?v=y7yKMi-Xus4&t=8785s) - Homework  
 ___
-Class 04 - Timecodes
-0:00 - Intro
+### [Class 04](https://www.youtube.com/watch?v=xTNCtSRz6No) - Timecodes - Come Learn CSS Layout!
+[0:44](https://youtu.be/xTNCtSRz6No?t=44) - Intro  
+[2:49](https://youtu.be/xTNCtSRz6No?t=169) - Questions  
+[12:49](https://youtu.be/xTNCtSRz6No?t=769) - Agenda  
+[15:01](https://youtu.be/xTNCtSRz6No?t=901) - Deep, not Wide  
+[17:23](https://youtu.be/xTNCtSRz6No?t=1043) - Anki  
+[22:23](https://youtu.be/xTNCtSRz6No?t=1358) - Vomit Code  
+[29:13](https://youtu.be/xTNCtSRz6No?t=1753) - Separation of Concerns  
+[35:25](https://youtu.be/xTNCtSRz6No?t=2125) - CSS Breakdown  
+[43:19](https://youtu.be/xTNCtSRz6No?t=2599) - Let's Review: Some Simple Styles  
+[54:10](https://youtu.be/xTNCtSRz6No?t=3250) - Let's Code: Some Basic CSS  
+[1:16:50](https://youtu.be/xTNCtSRz6No?t=4610) - BREAK 1  
+[1:23:07](https://youtu.be/xTNCtSRz6No?t=4987) - Hand Health  
+
+
+___
 
 Class 05 - Timecodes
 0:00 - Intro
