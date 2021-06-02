@@ -439,32 +439,32 @@ CODES:
 
 Rap Node w/ Express APP https://github.com/100devs/rap-names-express 
 
-Class 34 - Timecodes
-00:00 - Intro
-5:04 - Class Agenda & discussion
-13:32 - General Questions
-15:43 - What's coming in the next few classes
-25:39 - Getting through the Trough of Sorrow
-44:23 - Vomit code: your code doesn't need to be pretty
-48:39 - Backend review
-53:40 - Express review
-59:33 - What we'll be building tonight
-1:02:34 - Take a break
-1:12:47 - How does the internet work
-1:27:32 - CRUD apps
-1:29:20 - What is MongoDB, what it does, and how to use it
-1:31:30 - EJS and what it's useful for
-1:41:45 - Water intermission and answering EJS chat questions
-1:48:30 - Talking through our code
-1:53:26 - What are some Create (post) requests?
-2:05:18 - Take a break
-2:12:02 - Mask raffle
-2:16:37 - What are some Read (get) requests?
-2:22:21 - What are some Delete (delete) requests?
-2:27:09 - What are some Update (put) requests?
-2:50:35 - Reviewing the code we just wrote
-2:55:45 - Using .env
-3:00:33 - What you need to do by next class
+Class 34 - Timecodes  
+00:00 - Intro  
+5:04 - Class Agenda & discussion  
+13:32 - General Questions  
+15:43 - What's coming in the next few classes  
+25:39 - Getting through the Trough of Sorrow  
+44:23 - Vomit code: your code doesn't need to be pretty  
+48:39 - Backend review  
+53:40 - Express review  
+59:33 - What we'll be building tonight  
+1:02:34 - Take a break  
+1:12:47 - How does the internet work  
+1:27:32 - CRUD apps  
+1:29:20 - What is MongoDB, what it does, and how to use it  
+1:31:30 - EJS and what it's useful for  
+1:41:45 - Water intermission and answering EJS chat questions  
+1:48:30 - Talking through our code  
+1:53:26 - What are some Create (post) requests?  
+2:05:18 - Take a break  
+2:12:02 - Mask raffle  
+2:16:37 - What are some Read (get) requests?  
+2:22:21 - What are some Delete (delete) requests?  
+2:27:09 - What are some Update (put) requests?  
+2:50:35 - Reviewing the code we just wrote  
+2:55:45 - Using .env  
+3:00:33 - What you need to do by next class  
 
 Class 35 - Timecodes
 0:00 - Intro
@@ -478,26 +478,27 @@ Class 37 - Timecodes
 Class 38 - Timecodes
 0:00 - Intro
 
-Class 39 - Timecodes 0:00 - Intro
-12:51 - Agenda
-13:39 - Questions?
-16:33 - Who is this class for?
-18:50 - Follow 425Show on Twitch, follow Christos Matskas on Twitter!
-22:47 - Showcasing the Surface Laptop Go that is up for the raffle
-31:30 - Leon reintroduces himself and what #100Devs is for newcomers
-41:48 - "The Gang Uses Microsoft Identity" - What does Microsoft ID provide you?
-1:02:30 - Break
-1:12:50 - Let's look at our todo app with authentication
-1:17:25 - Let's code along
-1:21:03 - Setup Mongo Atlas & Azure AD
-1:45:06 - Intro to Passport.js
-1:54:20 - Let's take a look at the file and how Passport works
-2:04:30 - Break
-2:12:58 - How do we stay signed in?
-2:27:18 - Let's look at the full MVC architecture/map for this app
-2:43:40 - How can we only grab the Todos of the logged in user?
-2:52:20 - Walk through the code template and what each piece is, what does Leon code and what does Leon copy/paste?
-3:00:10 - Raffles!
+Class 39 - Timecodes  
+0:00 - Intro  
+12:51 - Agenda  
+13:39 - Questions?  
+16:33 - Who is this class for?  
+18:50 - Follow 425Show on Twitch, follow Christos Matskas on Twitter!  
+22:47 - Showcasing the Surface Laptop Go that is up for the raffle  
+31:30 - Leon reintroduces himself and what #100Devs is for newcomers  
+41:48 - "The Gang Uses Microsoft Identity" - What does Microsoft ID provide you?  
+1:02:30 - Break  
+1:12:50 - Let's look at our todo app with authentication  
+1:17:25 - Let's code along  
+1:21:03 - Setup Mongo Atlas & Azure AD  
+1:45:06 - Intro to Passport.js  
+1:54:20 - Let's take a look at the file and how Passport works  
+2:04:30 - Break  
+2:12:58 - How do we stay signed in?  
+2:27:18 - Let's look at the full MVC architecture/map for this app  
+2:43:40 - How can we only grab the Todos of the logged in user?  
+2:52:20 - Walk through the code template and what each piece is, what does Leon code and what does Leon copy/paste?  
+3:00:10 - Raffles!  
 
 Class 40 - Timecodes
 0:00 - Intro
