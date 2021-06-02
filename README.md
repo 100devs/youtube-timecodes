@@ -207,17 +207,17 @@ Class 39 - Timecodes
 22:47 - Showcasing the Surface Laptop Go that is up for the raffle  
 31:30 - Leon reintroduces himself and what #100Devs is for newcomers  
 41:48 - "The Gang Uses Microsoft Identity" - What does Microsoft ID provide you?  
-1:02:30 - Break ;
-1:12:50 - Let's look at our todo app with authentication ;
-1:17:25 - Let's code along ;
-1:21:03 - Setup Mongo Atlas & Azure AD ;
-1:45:06 - Intro to Passport.js ;
-1:54:20 - Let's take a look at the file and how Passport works ;
-2:04:30 - Break ;
-2:12:58 - How do we stay signed in? ;
-2:27:18 - Let's look at the full MVC architecture/map for this app ;
-2:43:40 - How can we only grab the Todos of the logged in user? ;
-2:52:20 - Walk through the code template and what each piece is, what does Leon code and what does Leon copy/paste? ;
+1:02:30 - Break  
+1:12:50 - Let's look at our todo app with authentication  
+1:17:25 - Let's code along  
+1:21:03 - Setup Mongo Atlas & Azure AD  
+1:45:06 - Intro to Passport.js  
+1:54:20 - Let's take a look at the file and how Passport works  
+2:04:30 - Break  
+2:12:58 - How do we stay signed in?  
+2:27:18 - Let's look at the full MVC architecture/map for this app  
+2:43:40 - How can we only grab the Todos of the logged in user?  
+2:52:20 - Walk through the code template and what each piece is, what does Leon code and what does Leon copy/paste?  
 3:00:10 - Raffles! 
 
 Class 40 - Timecodes
