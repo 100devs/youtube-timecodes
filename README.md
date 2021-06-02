@@ -83,69 +83,69 @@ Class 21 - Timecodes
 0:00 - Intro
 
 Class 22 - Timecodes
-0:00 - Intro
-9:25 - Simba cam
-15:10 - Questions and intro info
-27:30 - MORE SIMBA CAM
-40:00 - Review / Spaced Repetition
-51:20 - Netflix Object starter code
-1:08:30 - Break time
-1:15:20 - Review  What are APIs?
-1:19:55 - Review NASA API
-1:29:04 - Media type changes on NASA API
-1:41:40 - How to make the date your choice for NASA API
-1:50:30 - Working with Local Storage
-2:16:40 - Break time
-2:24:00 - Build a Card Game with an API
-3:00:00 - Pokemon card draw!
+0:00 - Intro  
+9:25 - Simba cam  
+15:10 - Questions and intro info  
+27:30 - MORE SIMBA CAM  
+40:00 - Review / Spaced Repetition  
+51:20 - Netflix Object starter code  
+1:08:30 - Break time  
+1:15:20 - Review  What are APIs?  
+1:19:55 - Review NASA API  
+1:29:04 - Media type changes on NASA API  
+1:41:40 - How to make the date your choice for NASA API  
+1:50:30 - Working with Local Storage  
+2:16:40 - Break time  
+2:24:00 - Build a Card Game with an API  
+3:00:00 - Pokemon card draw!  
 
 Class 23 - Timecodes
-0:00 - Intro
-20:00 - Agenda
-50:30 - Review / Spaced Repetition
-1:04:30 - Break time
-1:12:00 - Let's Code! Dungeons and Dragons
-1:40:00 - Within the DnD code: how to create an 'li' element in the document
-1:55:05 - Break time
-2:07:40 - Review Local Storage
-2:13:40 - Let's Code A Book Tracker (API and Local Storage)
-3:16:20 - Homework
+0:00 - Intro  
+20:00 - Agenda  
+50:30 - Review / Spaced Repetition  
+1:04:30 - Break time  
+1:12:00 - Let's Code! Dungeons and Dragons  
+1:40:00 - Within the DnD code: how to create an 'li' element in the document  
+1:55:05 - Break time  
+2:07:40 - Review Local Storage  
+2:13:40 - Let's Code A Book Tracker (API and Local Storage)  
+3:16:20 - Homework  
 
 Class 24 - Timecodes 
-0:00 - Intro and Back From Break chat / catch up
-22:40 - Agenda 
-1:10:40 - What is programming??? (Spaced repetition Q's)
-1:21:50 - Let's Code! Boulder Badge (reviews variables, conditionals, functions, and loops)
-1:55:15 - Let's Code! Cascade Badge (reviews arrays, good information to use with CodeWars Kata)
-3:01:00 - Homework!
+0:00 - Intro and Back From Break chat / catch up  
+22:40 - Agenda  
+1:10:40 - What is programming??? (Spaced repetition Q's)  
+1:21:50 - Let's Code! Boulder Badge (reviews variables, conditionals, functions, and loops)  
+1:55:15 - Let's Code! Cascade Badge (reviews arrays, good information to use with CodeWars Kata)  
+3:01:00 - Homework!  
 
 Class 25 - Timecodes
-0:00 - Intro
-9:50 - Why OOP? Why does it matter?
-12:35 - Agenda
-15:30 - Questions?
-32:00 - Spaced repetition / Review
-58:46 - Let's Code! Espresso Machine
-1:29:30 - OOP Baby! (Is it easy to add new features and functionality?).
-1:30:50 - Encapsulation: storing functions and associated data into one thing.
-1:52:35 - Abstraction: hide details and show essentials.
-2:25:15 - Remo to work together
+0:00 - Intro  
+9:50 - Why OOP? Why does it matter?  
+12:35 - Agenda  
+15:30 - Questions?  
+32:00 - Spaced repetition / Review  
+58:46 - Let's Code! Espresso Machine  
+1:29:30 - OOP Baby! (Is it easy to add new features and functionality?).  
+1:30:50 - Encapsulation: storing functions and associated data into one thing.  
+1:52:35 - Abstraction: hide details and show essentials.  
+2:25:15 - Remo to work together  
 
 Class 26 - Timecodes
-0:00 - Intro
-18:54 - Spaced repetition / Review
-24:40 - Recap OOP Baby
-26:54 - Recap Encapsulation
-36:28 - Recap Abstraction
-46:15 - Let's Start a Farm (Extend a Class)
-49:40 - What is "super" used for?
-59:40 - Inheritance BABY
-1:10:15 - Let's Code Make a Child Class
-1:30:00 - Problems with coworkers changing property names? Use underscores in property names.
-1:50:00 - Let's Code Animal System
-2:18:20 - Starts hinting at Polymorphism
-2:45:00 - Polymorphism BABY
-2:47:28 - The Four Pillars of OOP (if they made sense)
+0:00 - Intro  
+18:54 - Spaced repetition / Review  
+24:40 - Recap OOP Baby  
+26:54 - Recap Encapsulation  
+36:28 - Recap Abstraction  
+46:15 - Let's Start a Farm (Extend a Class)  
+49:40 - What is "super" used for?  
+59:40 - Inheritance BABY  
+1:10:15 - Let's Code Make a Child Class  
+1:30:00 - Problems with coworkers changing property names? Use underscores in property names.  
+1:50:00 - Let's Code Animal System  
+2:18:20 - Starts hinting at Polymorphism  
+2:45:00 - Polymorphism BABY  
+2:47:28 - The Four Pillars of OOP (if they made sense)  
 
 Class 27 - Timecodes
 0:00 - Intro
