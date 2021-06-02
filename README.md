@@ -199,13 +199,13 @@ Class 38 - Timecodes
 0:00 - Intro
 
 Class 39 - Timecodes
-0:00 - Intro \n
-12:51 - Agenda \n
-13:39 - Questions? \n
-16:33 - Who is this class for? \n
-18:50 - Follow 425Show on Twitch, follow Christos Matskas on Twitter! \n
-22:47 - Showcasing the Surface Laptop Go that is up for the raffle \n
-31:30 - Leon reintroduces himself and what #100Devs is for newcomers \n
+0:00 - Intro ;
+12:51 - Agenda ;
+13:39 - Questions? ;
+16:33 - Who is this class for? ;
+18:50 - Follow 425Show on Twitch, follow Christos Matskas on Twitter! ;
+22:47 - Showcasing the Surface Laptop Go that is up for the raffle ;
+31:30 - Leon reintroduces himself and what #100Devs is for newcomers ;
 41:48 - "The Gang Uses Microsoft Identity" - What does Microsoft ID provide you? ;
 1:02:30 - Break ;
 1:12:50 - Let's look at our todo app with authentication ;
