@@ -211,80 +211,82 @@ Class 24 - Timecodes 0:00 - Intro and Back From Break chat / catch up
 1:55:15 - Let's Code! Cascade Badge (reviews arrays, good information to use with CodeWars Kata)  
 3:01:00 - Homework!  
 
-Class 25 - Timecodes 0:00 - Intro
-9:50 - Why OOP? Why does it matter?
-12:35 - Agenda
-15:30 - Questions?
-32:00 - Spaced repetition / Review
-58:46 - Let's Code! Espresso Machine
-1:29:30 - OOP Baby! (Is it easy to add new features and functionality?).
-1:30:50 - Encapsulation: storing functions and associated data into one thing.
-1:52:35 - Abstraction: hide details and show essentials.
-2:25:15 - Remo to work together
+Class 25 - Timecodes  
+0:00 - Intro  
+9:50 - Why OOP? Why does it matter?  
+12:35 - Agenda  
+15:30 - Questions?  
+32:00 - Spaced repetition / Review  
+58:46 - Let's Code! Espresso Machine  
+1:29:30 - OOP Baby! (Is it easy to add new features and functionality?)  
+1:30:50 - Encapsulation: storing functions and associated data into one thing  
+1:52:35 - Abstraction: hide details and show essentials  
+2:25:15 - Remo to work together  
 
-Class 26 - Timecodes 0:00 - Intro
-18:54 - Spaced repetition / Review
-24:40 - Recap OOP Baby
-26:54 - Recap Encapsulation
-36:28 - Recap Abstraction
-46:15 - Let's Start a Farm (Extend a Class)
-49:40 - What is "super" used for?
-59:40 - Inheritance BABY
-1:10:15 - Let's Code Make a Child Class
-1:30:00 - Problems with coworkers changing property names? Use underscores in property names.
-1:50:00 - Let's Code Animal System
-2:18:20 - Starts hinting at Polymorphism
-2:45:00 - Polymorphism BABY
-2:47:28 - The Four Pillars of OOP (if they made sense)
+Class 26 - Timecodes  
+0:00 - Intro  
+18:54 - Spaced repetition / Review  
+24:40 - Recap OOP Baby  
+26:54 - Recap Encapsulation  
+36:28 - Recap Abstraction  
+46:15 - Let's Start a Farm (Extend a Class)  
+49:40 - What is "super" used for?  
+59:40 - Inheritance BABY  
+1:10:15 - Let's Code Make a Child Class  
+1:30:00 - Problems with coworkers changing property names? Use underscores in property names  
+1:50:00 - Let's Code Animal System  
+2:18:20 - Starts hinting at Polymorphism  
+2:45:00 - Polymorphism BABY  
+2:47:28 - The Four Pillars of OOP (if they made sense)  
 
 Class 27 - Timecodes
 0:00 - Intro
 
-Class 28 - Timecodes
-0:00 - Intro
-10:35 - Questions: About last class of life
-21:35 - Fresh Start
-24:48 - Active Recall & Spaced Repetition
-27:00 - Where are you?
-38:28 - How to play the game?
-46:45 - Crafting your Story
-56:25 - Let's Craft: Your Story Blurb
-1:03:20 - Online Persona
-1:11:40 - Twitter
-1:25:00 - Linkedin/Angelist
-1:38:37 - Portfolio
-1:45:55 - Resume
-1:51:15 - Cover Letter
-1:54:45 - GitHub
-2:14:25 - Recruiters Love Green Squares
-2:20:10 - HitList
-2:39:03 - 100Hours Project
-2:47:21 - Process
-2:56:57 - How to prepare?
+Class 28 - Timecodes  
+0:00 - Intro  
+10:35 - Questions: About last class of life  
+21:35 - Fresh Start  
+24:48 - Active Recall & Spaced Repetition  
+27:00 - Where are you?  
+38:28 - How to play the game?  
+46:45 - Crafting your Story  
+56:25 - Let's Craft: Your Story Blurb  
+1:03:20 - Online Persona  
+1:11:40 - Twitter  
+1:25:00 - Linkedin/Angelist  
+1:38:37 - Portfolio  
+1:45:55 - Resume  
+1:51:15 - Cover Letter  
+1:54:45 - GitHub  
+2:14:25 - Recruiters Love Green Squares  
+2:20:10 - HitList  
+2:39:03 - 100Hours Project  
+2:47:21 - Process  
+2:56:57 - How to prepare?  
 
-Class 29 - Timecodes
-0:00 - Intro
-17:30 - Questions: About last class or life
-23:18 - Spaced Repetition & Anki Gang
-26:10 - Stream Team
-29:42 - Newsletter
-49:25 - Where are you? What do you want?
-53:22 - Checklist
-1:02:02 - Can you code?
-1:12:26 - Online Persona
-1:12:44 - Twitter
-1:17:34 - Linkedin/Angelist
-1:24:23 - Push Every Day
-1:30:52 - 100Hours Project
-1:32:10 - Interviewing
-1:35:33 - What are the steps in this process?
-1:39:24 - How to Prepare?
-1:40:51 - Behavioral (C.A.R)
-2:10:47 - Technical Questions (E.U.E)
-2:14:00 - Technical Whiteboard
-2:22:06 - P.R.E.P
-2:26:39 - Let's PREP - FizzBuzz
-2:35:30 - Questions
+Class 29 - Timecodes  
+0:00 - Intro  
+17:30 - Questions: About last class or life  
+23:18 - Spaced Repetition & Anki Gang  
+26:10 - Stream Team  
+29:42 - Newsletter  
+49:25 - Where are you? What do you want?  
+53:22 - Checklist  
+1:02:02 - Can you code?  
+1:12:26 - Online Persona  
+1:12:44 - Twitter  
+1:17:34 - Linkedin/Angelist  
+1:24:23 - Push Every Day  
+1:30:52 - 100Hours Project  
+1:32:10 - Interviewing  
+1:35:33 - What are the steps in this process?  
+1:39:24 - How to Prepare?  
+1:40:51 - Behavioral (C.A.R)  
+2:10:47 - Technical Questions (E.U.E)  
+2:14:00 - Technical Whiteboard  
+2:22:06 - P.R.E.P  
+2:26:39 - Let's PREP - FizzBuzz  
+2:35:30 - Questions  
 
 Class 30 - Timecodes
 0:00 - Intro
