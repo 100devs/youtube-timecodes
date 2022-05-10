@@ -423,6 +423,42 @@ Class 35 - Timecodes
 
 Class 36 - Timecodes
 0:00 - Intro
+1:12 - Dab Raids
+12:13 - gotnopancakemix gets a job with DropBox
+12:50 - partytime
+14:47 - We Need to Talk
+33:50 - Never seen more demand for software engineers, in 10 years, than right now.
+35:59 - Class Agenda
+36:05 - Upcoming Classes
+40:12 - Trough of Sorrow
+44:10 - Imposter Syndrome
+45:45 - Learning to Code is Half Hard Work and Half Believing You Can Do It
+46:47 - Manage Frustration, Consistency, Taking Care of Yourself
+48:37 - Don't let your dreams be dreams
+49:01 - What's Next
+52:58 - Push Every Day
+54:52 - The Bank
+56:20 - Hitlist
+56:40 - Use the sheet
+58:30 - 100Hours Project
+1:00:47 - It's not too late
+1:01:12 - Youtubers, I Need Help with Timecodes
+1:02:52 - 100Devs, I Need Help with ReadMes, Blog, Site
+1:04:46 - Comment every line of the todo list
+1:07:38 - Read Zell's REST APIs article
+1:07:42 - Watch DevMarketer's Video on MVC
+1:08:08 - Stream Team Assemble
+
+LINKS:
+Youtube Timecode Repository: https://github.com/100devs/youtube-timecodes
+Zell's REST APIs Article: https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
+DevMarketer's MVC Video: https://youtu.be/1IsL6g2ixak
+Brad Traversy Video: https://youtu.be/SBvmnHTQIPY
+Slides: https://slides.com/leonnoel/100devs-study-time
+Stream Team: https://forms.gle/LcnfRn6NMJqbto6q6
+
+CODE:
+Todolist Live Review: https://github.com/100devs/todolist-live-review
 
 Class 37 - Timecodes
 0:00 - Intro
