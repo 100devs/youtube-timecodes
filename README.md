@@ -271,7 +271,7 @@ Class 31 - Timecodes
 1:28:42 - Event Loop part 2  
 1:34:37 - Stepping through the Event Loop  
 1:43:23 - Running it back  
-1:46:02 - Event Loop Summary   
+1:46:02 - Event Loop Summary  
 1:48:30 - Backend BABY  
 1:49:39 - What does JS need?  
 1:50:49 - What does a server need?  
@@ -287,7 +287,7 @@ Class 31 - Timecodes
 2:17:00 - Server setup  
 2:19:35 - Our server listens for requests  
 2:22:33 - Figlet  
-2:24:47 - Go practice together   
+2:24:47 - Go practice together  
 2:26:10 - Homework
 
 LINKS:  
@@ -320,7 +320,7 @@ https://nodejs.org/en/
 Node Releases  
 https://nodejs.org/en/about/releases/  
 Professional Links Submission  
-https://docs.google.com/forms/d/e/1FAIpQLSc1jhBZKVJNxH8Ehf-qodzTzpYuloBmPan-CqaoMwL8xYkM8w/viewform  
+https://docs.google.com/forms/d/e/1FAIpQLSc1jhBZKVJNxH8Ehf-qodzTzpYuloBmPan-CqaoMwL8xYkM8w/viewform
 
 Class 32 - Timecodes
 0:00 - Intro  
@@ -346,9 +346,9 @@ Class 32 - Timecodes
 2:50:59 - Add More Rappers in the Api  
 3:09:37 - Talk through the Code  
 3:13:25 - Push to Heroku  
-3:29:27 - Homework  
+3:29:27 - Homework
 
-LINKS: 
+LINKS:
 
 Class Slide https://slides.com/leonnoel/100devs-node-express
 
@@ -363,7 +363,7 @@ CODES:
 CRUD Express API https://github.com/100devs/rap-api
 
 Client Side Code with Async Await Request https://github.com/100devs/client-side-rap-api
- 
+
 Class 33 - Timecodes
 1:28 - Intro  
 10:25 - Class Agenda & discussion  
@@ -381,15 +381,21 @@ Class 33 - Timecodes
 1:58:11 - Take a break  
 2:04:12 - What does delete do  
 2:33:42 - Let's talk through our code  
-3:07:09 - What you need to do for next class  
+3:07:09 - What you need to do for next class
 
-LINKS: 
+LINKS:
+
+test
+
+test
+
+hello world
 
 Class Slide https://slides.com/leonnoel/100devs-node-express-crud
 
 CODES:
 
-Rap Node w/ Express APP https://github.com/100devs/rap-names-express 
+Rap Node w/ Express APP https://github.com/100devs/rap-names-express
 
 Class 34 - Timecodes
 00:00 - Intro
