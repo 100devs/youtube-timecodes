@@ -22,36 +22,36 @@ How to Study for Exams - Spaced Repetition | Evidence-based revision tips by Ali
 
 Learning How to Learn: Powerful mental tools to help you master tough subjects by Barbara Oakley https://www.coursera.org/learn/learning-how-to-learn
 
-Class 02 - Timecodes
+Class 02 - Timecodes  
 0:00 - Intro
 
-Class 03 - Timecodes
-1:05 - Intro
-2.49 - Q&A
-7:40 - Agenda
-10:19 - Curses Google Authenticator Multifactor
-12:00 - Typing
-16:10 - Reading Documentation
-18:51 - Deep Not Wide
-22:08 - Space Repetition
-24:17 - What is the internet?
-25.56 - Separation of Concerns
-27:45 - Progressive Enhancement
-30.56 - CSS
-36:54 - Use a separete CSS file
-42:15 - CSS Syntax
-53:13 - Cascade
-56:20 - Color
-1:04:18 - Fonts
-1:09:11 - Break
-1:15:33 - How to research?
-1:18:08 - Let's Code
-1:47:05 - Selecting by Relationship
-1:58:30 - Let's Code
-2:05:56 - Break
-2:12:51 - IDs & Classes
-2:17:27 - Specificity
-2:26:25 - Homework
+Class 03 - Timecodes  
+1:05 - Intro  
+2.49 - Q&A  
+7:40 - Agenda  
+10:19 - Curses Google Authenticator Multifactor  
+12:00 - Typing  
+16:10 - Reading Documentation  
+18:51 - Deep Not Wide  
+22:08 - Space Repetition  
+24:17 - What is the internet?  
+25.56 - Separation of Concerns  
+27:45 - Progressive Enhancement  
+30.56 - CSS  
+36:54 - Use a separete CSS file  
+42:15 - CSS Syntax  
+53:13 - Cascade  
+56:20 - Color  
+1:04:18 - Fonts  
+1:09:11 - Break  
+1:15:33 - How to research?  
+1:18:08 - Let's Code  
+1:47:05 - Selecting by Relationship  
+1:58:30 - Let's Code  
+2:05:56 - Break  
+2:12:51 - IDs & Classes  
+2:17:27 - Specificity  
+2:26:25 - Homework  
 
 Class 04 - Timecodes
 0:00 - Intro
@@ -98,80 +98,80 @@ Class 17 - Timecodes
 Class 18 - Timecodes
 0:00 - Intro
 
-Class 19 - Timecodes
-0:00 - Chat is HYPE
-13:50 - Intro
-16:53 - Agenda
-17:30 - Questions?
-19:56 - Pep talk
-23:45 - Trough of Sorrow
-25:08 - Health First
-25:40 - Networking update
-27:06 - Client deadline update
-28:19 - Client alternative Introduction
-30:25 - Option 1: Grassroots Volunteer
-33:35 - Option 2: Open Source Projects
-36:42 - Portfolio and Resume review announcement
-40:32 - Youtube announcement
-42:17 - Newsletter
-43:40 - Discord update
-47:40 - Channel Points update
-53:14 - Stream Hardware update
-55:33 - Merch drop
-1:03:24 - Sponsor announcement
-1:05:24 - 7 minute break
-1:12:29 - Sponsor details and Thank you
-1:31:27 - Programming
-1:33:24 - Variables
-1:33:43 - Conditionals
-1:34:26 - Functions
-1:35:31 - Loops
-1:36:49 - Let's Code: Turbo Review
-2:07:40 - 5 minute break
-2:17:15 - Arrays
-2:24:23 - Let's Code: Space Review
-2:55:22 - End of class
+Class 19 - Timecodes  
+0:00 - Chat is HYPE  
+13:50 - Intro  
+16:53 - Agenda  
+17:30 - Questions?  
+19:56 - Pep talk  
+23:45 - Trough of Sorrow  
+25:08 - Health First  
+25:40 - Networking update  
+27:06 - Client deadline update  
+28:19 - Client alternative Introduction  
+30:25 - Option 1: Grassroots Volunteer  
+33:35 - Option 2: Open Source Projects  
+36:42 - Portfolio and Resume review announcement  
+40:32 - Youtube announcement  
+42:17 - Newsletter  
+43:40 - Discord update  
+47:40 - Channel Points update  
+53:14 - Stream Hardware update  
+55:33 - Merch drop  
+1:03:24 - Sponsor announcement  
+1:05:24 - 7 minute break  
+1:12:29 - Sponsor details and Thank you  
+1:31:27 - Programming  
+1:33:24 - Variables  
+1:33:43 - Conditionals  
+1:34:26 - Functions  
+1:35:31 - Loops  
+1:36:49 - Let's Code: Turbo Review  
+2:07:40 - 5 minute break  
+2:17:15 - Arrays  
+2:24:23 - Let's Code: Space Review  
+2:55:22 - End of class  
 
-Class 20 - Timecodes
-0:00 - Greetings
-8:30 - Intro
-10:27 - Agenda
-10:52 - Questions
-13:01 - Working through new stream struggles
-14:38 - Pep talk
-16:21 - Health First
-16:40 - Networking update
-16:48 - Client deadline update
-16:53 - Client alternatives
-17:34 - Portfolio and Resume review announcement
-19:47 - Youtube announcement
-20:11 - Newsletter
-20:55 - Discord update
-21:59 - Channel Points update
-30:21 - Sponsor announcement
-32:39 - Merch update
-33:50 - Stream updates
-42:08 - Programming
-43:25 - Variables
-43:42 - Conditionals
-44:33 - Functions
-47:55 - Loops
-48:35 - Arrays
-50:30 - Let's Code: Turbo Review
-1:08:48 - 5 minute break
-1:15:48 - Let's Code: Turbo Review Continued
-1:36:40 - Objects
-1:44:46 - Factories
-1:58:36 - Constructor prototypes
-2:03:46 - 5 minute break
-2:10:02 - Global object prototype and Inheritance
-2:14:10 - Let's Code: Objects - Tony Hawk Pro Skater
-2:28:41 - Class syntax
-2:30:40 - APIs
-2:38:56 - Let's Code: Dog Photos!
-2:47:05 - API Query Parameter
-2:49:49 - Let's Code: Shots
-3:05:10 - End of class
+Class 20 - Timecodes  
+0:00 - Greetings  
+8:30 - Intro  
+10:27 - Agenda  
+10:52 - Questions  
+13:01 - Working through new stream struggles  
+14:38 - Pep talk  
+16:21 - Health First  
+16:40 - Networking update  
+16:48 - Client deadline update  
+16:53 - Client alternatives  
+17:34 - Portfolio and Resume review announcement  
+19:47 - Youtube announcement  
+20:11 - Newsletter  
+20:55 - Discord update  
+21:59 - Channel Points update  
+30:21 - Sponsor announcement  
+32:39 - Merch update  
+33:50 - Stream updates  
+42:08 - Programming  
+43:25 - Variables  
+43:42 - Conditionals  
+44:33 - Functions  
+47:55 - Loops  
+48:35 - Arrays  
+50:30 - Let's Code: Turbo Review  
+1:08:48 - 5 minute break  
+1:15:48 - Let's Code: Turbo Review Continued  
+1:36:40 - Objects  
+1:44:46 - Factories  
+1:58:36 - Constructor prototypes  
+2:03:46 - 5 minute break  
+2:10:02 - Global object prototype and Inheritance  
+2:14:10 - Let's Code: Objects - Tony Hawk Pro Skater  
+2:28:41 - Class syntax  
+2:30:40 - APIs  
+2:38:56 - Let's Code: Dog Photos!  
+2:47:05 - API Query Parameter  
+2:49:49 - Let's Code: Shots  
+3:05:10 - End of class  
 
 Class 21 - Timecodes
 0:00 - Intro
@@ -194,51 +194,51 @@ Class 26 - Timecodes
 Class 27 - Timecodes
 0:00 - Intro
 
-Class 28 - Timecodes
-0:00 - Intro
-10:35 - Questions: About last class of life
-21:35 - Fresh Start
-24:48 - Active Recall & Spaced Repetition
-27:00 - Where are you?
-38:28 - How to play the game?
-46:45 - Crafting your Story
-56:25 - Let's Craft: Your Story Blurb
-1:03:20 - Online Persona
-1:11:40 - Twitter
-1:25:00 - Linkedin/Angelist
-1:38:37 - Portfolio
-1:45:55 - Resume
-1:51:15 - Cover Letter
-1:54:45 - GitHub
-2:14:25 - Recruiters Love Green Squares
-2:20:10 - HitList
-2:39:03 - 100Hours Project
-2:47:21 - Process
-2:56:57 - How to prepare?
+Class 28 - Timecodes  
+0:00 - Intro  
+10:35 - Questions: About last class of life  
+21:35 - Fresh Start  
+24:48 - Active Recall & Spaced Repetition  
+27:00 - Where are you?  
+38:28 - How to play the game?  
+46:45 - Crafting your Story  
+56:25 - Let's Craft: Your Story Blurb  
+1:03:20 - Online Persona  
+1:11:40 - Twitter  
+1:25:00 - Linkedin/Angelist  
+1:38:37 - Portfolio  
+1:45:55 - Resume  
+1:51:15 - Cover Letter  
+1:54:45 - GitHub  
+2:14:25 - Recruiters Love Green Squares  
+2:20:10 - HitList  
+2:39:03 - 100Hours Project  
+2:47:21 - Process  
+2:56:57 - How to prepare?  
 
-Class 29 - Timecodes
-0:00 - Intro
-17:30 - Questions: About last class or life
-23:18 - Spaced Repetition & Anki Gang
-26:10 - Stream Team
-29:42 - Newsletter
-49:25 - Where are you? What do you want?
-53:22 - Checklist
-1:02:02 - Can you code?
-1:12:26 - Online Persona
-1:12:44 - Twitter
-1:17:34 - Linkedin/Angelist
-1:24:23 - Push Every Day
-1:30:52 - 100Hours Project
-1:32:10 - Interviewing
-1:35:33 - What are the steps in this process?
-1:39:24 - How to Prepare?
-1:40:51 - Behavioral (C.A.R)
-2:10:47 - Technical Questions (E.U.E)
-2:14:00 - Technical Whiteboard
-2:22:06 - P.R.E.P
-2:26:39 - Let's PREP - FizzBuzz
-2:35:30 - Questions
+Class 29 - Timecodes  
+0:00 - Intro  
+17:30 - Questions: About last class or life  
+23:18 - Spaced Repetition & Anki Gang  
+26:10 - Stream Team  
+29:42 - Newsletter  
+49:25 - Where are you? What do you want?  
+53:22 - Checklist  
+1:02:02 - Can you code?  
+1:12:26 - Online Persona  
+1:12:44 - Twitter  
+1:17:34 - Linkedin/Angelist  
+1:24:23 - Push Every Day  
+1:30:52 - 100Hours Project  
+1:32:10 - Interviewing  
+1:35:33 - What are the steps in this process?  
+1:39:24 - How to Prepare?  
+1:40:51 - Behavioral (C.A.R)  
+2:10:47 - Technical Questions (E.U.E)  
+2:14:00 - Technical Whiteboard  
+2:22:06 - P.R.E.P  
+2:26:39 - Let's PREP - FizzBuzz  
+2:35:30 - Questions  
 
 Class 30 - Timecodes
 0:00 - Intro
@@ -391,35 +391,62 @@ CODES:
 
 Rap Node w/ Express APP https://github.com/100devs/rap-names-express 
 
-Class 34 - Timecodes
-00:00 - Intro
-5:04 - Class Agenda & discussion
-13:32 - General Questions
-15:43 - What's coming in the next few classes
-25:39 - Getting through the Trough of Sorrow
-44:23 - Vomit code: your code doesn't need to be pretty
-48:39 - Backend review
-53:40 - Express review
-59:33 - What we'll be building tonight
-1:02:34 - Take a break
-1:12:47 - How does the internet work
-1:27:32 - CRUD apps
-1:29:20 - What is MongoDB, what it does, and how to use it
-1:31:30 - EJS and what it's useful for
-1:41:45 - Water intermission and answering EJS chat questions
-1:48:30 - Talking through our code
-1:53:26 - What are some Create (post) requests?
-2:05:18 - Take a break
-2:12:02 - Mask raffle
-2:16:37 - What are some Read (get) requests?
-2:22:21 - What are some Delete (delete) requests?
-2:27:09 - What are some Update (put) requests?
-2:50:35 - Reviewing the code we just wrote
-2:55:45 - Using .env
-3:00:33 - What you need to do by next class
+Class 34 - Timecodes  
+00:00 - Intro  
+5:04 - Class Agenda & discussion  
+13:32 - General Questions  
+15:43 - What's coming in the next few classes  
+25:39 - Getting through the Trough of Sorrow  
+44:23 - Vomit code: your code doesn't need to be pretty  
+48:39 - Backend review  
+53:40 - Express review  
+59:33 - What we'll be building tonight  
+1:02:34 - Take a break  
+1:12:47 - How does the internet work  
+1:27:32 - CRUD apps  
+1:29:20 - What is MongoDB, what it does, and how to use it  
+1:31:30 - EJS and what it's useful for  
+1:41:45 - Water intermission and answering EJS chat questions  
+1:48:30 - Talking through our code  
+1:53:26 - What are some Create (post) requests?  
+2:05:18 - Take a break  
+2:12:02 - Mask raffle  
+2:16:37 - What are some Read (get) requests?  
+2:22:21 - What are some Delete (delete) requests?  
+2:27:09 - What are some Update (put) requests?  
+2:50:35 - Reviewing the code we just wrote  
+2:55:45 - Using .env  
+3:00:33 - What you need to do by next class  
 
-Class 35 - Timecodes
-0:00 - Intro
+Class 35 - Timecodes  
+0:00 - Intro  
+10:00 - Agenda & General Questions  
+18:22 - What's coming in the next few classes  
+21:15 - Celebrate the Current Achievement in RC and 100Devs  
+29:44 - Start Backend Review  
+30:32 - Express  
+32:00 - How Internet Works  
+33:19 - CRUD API  
+33:52 - MongoDB  
+34:36 - EJS  
+35:07 - Setup of our Application  
+37:12 - Let's Talk About our Todo List (Post request)  
+49:42 - Get Request in our Todo List  
+1:01:36 - Put Request in our Todo List  
+1:05:01 - Break  
+1:14:34 - Put Request in our Todo List  
+1:23:29 - Draw Out the Put Request  
+1:29:42 - Delete Request in our Todo List  
+1:36:50 - Asyn/Await Syntax inside the Request  
+1:40:09 - Build the Project on Remo  
+
+LINKS: 
+
+Class Slide https://slides.com/leonnoel/100devs-node-express
+
+CODE:
+
+Todo List Express https://github.com/100devs/todo-list-express
 
 Class 36 - Timecodes
 0:00 - Intro
