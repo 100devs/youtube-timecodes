@@ -419,7 +419,19 @@ Class 34 - Timecodes
 3:00:33 - What you need to do by next class
 
 Class 35 - Timecodes
-0:00 - Intro
+00:00 - Intro
+09:58 - Class Agenda
+21:12 - Job Prospects/Celebration
+29:13 - Backend Review
+37:01 - Building To-do list 
+38:58 - To-do list: Post requests
+49:40 - To-do List: Get requests
+57:31 - To-do List: Conditional logic
+1:04:52 - Break
+1:14:29 - To-do List: Put requests
+1:29:33 - To-do List: Delete requests
+1:32:31 - Questions
+1:40:07 - Join on Remo 
 
 Class 36 - Timecodes
 0:00 - Intro
@@ -461,7 +473,26 @@ CODE:
 Todolist Live Review: https://github.com/100devs/todolist-live-review
 
 Class 37 - Timecodes
-0:00 - Intro
+00:00 - Intro
+10:21 - Agenda
+18:24 - Raffle
+24:05 - Model View Controller Intro
+42:49 - Walkthrough To-do List Code 
+45:05 - JSON & Node.js
+46:35 - Folder Setup Overview
+49:20 - server.js file
+56:08 - Routes
+1:01:25 - Big Picture Overview
+1:08:09 - Break
+1:20:46 - Routes on To-do List
+1:24:32 - Controller on To-do 
+1:28:50 - Mongoose
+1:33:30 - Get request
+1:39:37 - Post request 
+1:47:52 - Delete request
+2:07:59 - Break
+2:13:52 - Put request
+2:19:05 - Try this - make a lecture
 
 Class 38 - Timecodes
 0:00 - Intro
