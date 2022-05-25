@@ -419,7 +419,19 @@ Class 34 - Timecodes
 3:00:33 - What you need to do by next class
 
 Class 35 - Timecodes
-0:00 - Intro
+00:00 - Intro
+09:58 - Class Agenda
+21:12 - Job Prospects/Celebration
+29:13 - Backend Review
+37:01 - Building To-do list 
+38:58 - To-do list: Post requests
+49:40 - To-do List: Get requests
+57:31 - To-do List: Conditional logic
+1:04:52 - Break
+1:14:29 - To-do List: Put requests
+1:29:33 - To-do List: Delete requests
+1:32:31 - Questions
+1:40:07 - Stream Team Assemble 
 
 Class 36 - Timecodes
 0:00 - Intro
